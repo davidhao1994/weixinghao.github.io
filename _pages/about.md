@@ -12,29 +12,11 @@ Hello! Welcome to my space! I'm Weixing, a fifth-year Ph.D. student at the [Univ
 
 My work and research
 ======
-I specialize in Environmental Engineering, with a focus on the study of aerosols that affect our health and environment. My expertise includes:
+My research interests cover diverse aspects of aerosol science and engineering, with a focus on the study of aerosols that affect our health and environment. My current research topic focuses on aerosol instrumentation, aerosol characterization and measurements, health-related aerosol mitigation, and indoor environmental behavior of bioaerosols. I have also studied air filtration and occupational health, specifically in filtration performances of non-medical materials as candidates for manufacturing facemasks and respirators during the COVID-19 pandemic.
 
-*Aerosol Science: Understanding how aerosols behave and interact with our environment and health.
-*Instrumentation: Designing tools to measure and analyze aerosols accurately.
-*Air Quality: Investigating how aerosols influence indoor and outdoor air quality.
-*Health Impact: Studying how different aerosols can affect human health, especially in workplaces.
-My skills range from laboratory work, where I generate and analyze aerosols, to using advanced technology to measure their impact. I'm particularly interested in air filtration and how we can reduce harmful aerosols in our environment.
+My research journey has led me to explore critical topics that impact public health and environmental well-being. I am passionate about leveraging scientific insights to address real-world challenges and contribute to advancements in the field.
 
-In my research, I aim to make air safer to breathe by exploring topics like:
-
-How aerosols move and settle in different environments.
-The best ways to filter harmful particles out of the air.
-How aerosols from electronic cigarettes and other sources affect us.
-The role of tiny biological particles, or bioaerosols, in our health.
-Through my work, I hope to find practical solutions that improve air quality and protect public health.
-
-My main field is Environmental Engineering. Within this general field, I specialize in aerosol science and engineering, aerosol instrumentation, aerosol characterization and measurements, health-related aerosol mitigation,  and indoor environmental behavior of bioaerosols. 
-
-My top skills include aerosol generation, sampling, measurement and characterization in laboratory studies, design and improvement of aerosol instruments, physical and chemical analysis of electronic cigarette aerosol, and biological laboratory and molecular biology skills related to bioaerosols, numerical simulation. 
-
-I specializing in air filtration, aerosol instrumentation, and aerosol health effects. My research journey has led me to explore critical topics that impact public health and environmental well-being. I am passionate about leveraging scientific insights to address real-world challenges and contribute to advancements in the field.
-
-Research Interests: Aerosol and air quality; Air filtration; Aerosol instrumentation; Aerosol health effects; Nanoparticles measurement; Bioaerosols; Occupational health; Inhalation toxicology.
+##Research Interests: Aerosol and air quality; Air filtration; Aerosol instrumentation; Aerosol health effects; Nanoparticles measurement; Bioaerosols; Occupational health; Inhalation toxicology.
 
 My personal life
 ======
