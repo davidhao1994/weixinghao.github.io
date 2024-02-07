@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Weixing, a Ph.D. student at the University of Miami in the Department of Chemical, Environmental and Materials Engineering, under the guidance of Dr. [Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707) in the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html).
+Hello! I’m Weixing, a Ph.D. student at the [University of Miami](https://welcome.miami.edu/) in the [Department of Chemical, Environmental and Materials Engineering](https://ceme.coe.miami.edu/index.html) of [College of Engineering](https://www.coe.miami.edu/) under the guidance of Dr. [Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707) in the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html). I am also a part of the [Center for Aerosol Science and Technology (CAST)](https://cast.miami.edu/).
 
 My work and research
 ======
