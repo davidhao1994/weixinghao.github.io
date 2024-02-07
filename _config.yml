@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Weixing Hao / Personal Website
+title                    : "Weixing Hao / Personal Website"
 title_separator          : "-"
 name                     : Weixing Hao
-description              : &description "personal description"
-url                      : https://davidhao1994.github.io/weixinghao.github.io/
+description              : "personal description"
+url                      : "https://davidhao1994.github.io/weixinghao.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weixinghao.github.io"
-teaser                   :  weixing_photo_2.jpg
+teaser                   : "weixing_photo_2.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
