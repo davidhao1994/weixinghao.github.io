@@ -16,12 +16,10 @@ My research interests cover diverse aspects of aerosol science and engineering, 
 
 My research journey has led me to explore critical topics that impact public health and environmental well-being. I am passionate about leveraging scientific insights to address real-world challenges and contribute to advancements in the field.
 
-##Research Interests: Aerosol and air quality; Air filtration; Aerosol instrumentation; Aerosol health effects; Nanoparticles measurement; Bioaerosols; Occupational health; Inhalation toxicology.
-
 My personal life
 ======
-My life extends beyond the lab and research. When I get out of the house, I engage in my other passions: the thrill of traveling, the joy of browsing maps, and the excitement of embarking on road trips that leave me with unforgettable memories. These adventures ignite my curiosity, deepen my understanding of geography, and inject a unique perspective into my professional work.
+I am also passionate about other hobbies: the thrill of traveling, the pleasure of browsing maps, and the excitement of formulating and embarking on road trips that have left me with unforgettable memories. These adventures have fueled my curiosity, deepened my understanding of geography and the world, and infused my professional work with a unique perspective.
 
-But my explorations are not limited to physical travel. I am equally passionate about traveling across the vast expanse of literature and reading books in a variety of genres that transport me to different fields and eras. Reading not only broadens my horizons, but also enriches my understanding of the world and its myriad narratives. In addition, I rejuvenate my mind and body through swimming and fitness routines, preparing me for the challenges and excitement ahead.
+I am equally passionate about traversing the vast world of literature and reading books of all genres that transport me to different fields and eras. Reading not only broadens my horizons but also enriches my understanding of the world and its myriad narratives. In addition, I rejuvenate my mind and body through swimming and fitness to prepare myself for the challenges and excitement ahead.
 
 **Welcome aboard!**
