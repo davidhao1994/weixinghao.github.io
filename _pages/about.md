@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Weixing, a Ph.D. student at University of Miami in the Department of Chemical, Environmental and Materials Engineering, under the guidance of Dr. Yang Wang.
+Hello! I’m Weixing, a Ph.D. student at the University of Miami in the Department of Chemical, Environmental and Materials Engineering, under the guidance of Dr. [Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707) in the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html).
 
 My work and research
 ======
