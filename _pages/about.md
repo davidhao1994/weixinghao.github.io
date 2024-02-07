@@ -8,19 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Weixing, a Ph.D. student at the [University of Miami](https://welcome.miami.edu/) in the [Department of Chemical, Environmental and Materials Engineering](https://ceme.coe.miami.edu/index.html) of [College of Engineering](https://www.coe.miami.edu/) under the guidance of Dr. [Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707) in the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html). I am also a part of the [Center for Aerosol Science and Technology (CAST)](https://cast.miami.edu/).
+Hello! Welcome to my space! I'm Weixing, a fifth-year Ph.D. student at the [University of Miami](https://welcome.miami.edu/), specifically within the [Department of Chemical, Environmental, and Materials Engineering](https://ceme.coe.miami.edu/index.html), [College of Engineering](https://www.coe.miami.edu/). My academic journey is guided by the expertise of [Dr. Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707), and I spend most of my research hours in the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html), where we push the boundaries of what's known in our field. I am also an active member of the [Center for Aerosol Science and Technology (CAST)](https://cast.miami.edu/) in the University of Miami.
 
 My work and research
 ======
-xxxxxxxx  xxx  xxx files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I specialize in Environmental Engineering, with a focus on the study of aerosols that affect our health and environment. My expertise includes:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+*Aerosol Science: Understanding how aerosols behave and interact with our environment and health.
+*Instrumentation: Designing tools to measure and analyze aerosols accurately.
+*Air Quality: Investigating how aerosols influence indoor and outdoor air quality.
+*Health Impact: Studying how different aerosols can affect human health, especially in workplaces.
+My skills range from laboratory work, where I generate and analyze aerosols, to using advanced technology to measure their impact. I'm particularly interested in air filtration and how we can reduce harmful aerosols in our environment.
 
-**Markdown generator**
+In my research, I aim to make air safer to breathe by exploring topics like:
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+How aerosols move and settle in different environments.
+The best ways to filter harmful particles out of the air.
+How aerosols from electronic cigarettes and other sources affect us.
+The role of tiny biological particles, or bioaerosols, in our health.
+Through my work, I hope to find practical solutions that improve air quality and protect public health.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly 
+My main field is Environmental Engineering. Within this general field, I specialize in aerosol science and engineering, aerosol instrumentation, aerosol characterization and measurements, health-related aerosol mitigation,  and indoor environmental behavior of bioaerosols. 
 
+My top skills include aerosol generation, sampling, measurement and characterization in laboratory studies, design and improvement of aerosol instruments, physical and chemical analysis of electronic cigarette aerosol, and biological laboratory and molecular biology skills related to bioaerosols, numerical simulation. 
+
+I specializing in air filtration, aerosol instrumentation, and aerosol health effects. My research journey has led me to explore critical topics that impact public health and environmental well-being. I am passionate about leveraging scientific insights to address real-world challenges and contribute to advancements in the field.
+
+Research Interests: Aerosol and air quality; Air filtration; Aerosol instrumentation; Aerosol health effects; Nanoparticles measurement; Bioaerosols; Occupational health; Inhalation toxicology.
+
+My personal life
+======
+My life extends beyond the lab and research. When I get out of the house, I engage in my other passions: the thrill of traveling, the joy of browsing maps, and the excitement of embarking on road trips that leave me with unforgettable memories. These adventures ignite my curiosity, deepen my understanding of geography, and inject a unique perspective into my professional work.
+
+But my explorations are not limited to physical travel. I am equally passionate about traveling across the vast expanse of literature and reading books in a variety of genres that transport me to different fields and eras. Reading not only broadens my horizons, but also enriches my understanding of the world and its myriad narratives. In addition, I rejuvenate my mind and body through swimming and fitness routines, preparing me for the challenges and excitement ahead.
+
+**Welcome aboard!**
