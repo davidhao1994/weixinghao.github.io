@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in GitHub, GitHub University, 2016
-* M.S. in xxxxxxxxxxxxx, GitHub University, 2019
+* M.S. in xxxxxxxxxxxxx, ccccc University, 2019
 * Ph.D in Environmental Engineering, University of Miami, 2024 (expected)
 
 Work experience
