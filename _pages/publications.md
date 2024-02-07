@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Publication
-======
-
 11. Li, Y., Peng, Z., Li, J., Wei, C., Liu, S., Hao, W., ... & Wu, C. (2023). Wearable MXene‐Graphene Sensing of Influenza and SARS‐CoV‐2 Virus in Air and Breath: From Lab to Clinic. Advanced Materials Technologies, 2201787.
     
 10. Hao, W., Huang, Y. W., & Wang, Y. (2023). Bioaerosol size as a potential determinant of airborne E. coli viability under ultraviolet germicidal irradiation and ozone disinfection. Nanotechnology, 35, 145702.
