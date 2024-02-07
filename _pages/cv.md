@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in GitHub, GitHub University, 2016
 * M.S. in xxxxxxxxxxxxx, GitHub University, 2019
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Version Control Theory, University of Miami, 2024 (expected)
 
 Work experience
 ======
