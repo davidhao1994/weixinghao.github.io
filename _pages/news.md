@@ -47,10 +47,10 @@ author_profile: true
 
 ![Example Image](/images/weixing_photo_3.jpg "This is an example image")
 
-2020.01.07 I attend the gradute teaching assistant workshop and passed the test for becoming a official gradute teaching assistant.
+- *2020.01.07 I attend the gradute teaching assistant workshop and passed the test for becoming a official gradute teaching assistant.
 
-2019.10.19 I gave a poster presentation at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) at the University of Missouri on “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter”.
+- *2019.10.19 I gave a poster presentation at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) at the University of Missouri on “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter”.
 
-2019.09.01 I started working my CPC simulation project.
+- *2019.09.01 I started working my CPC simulation project.
 
-2019.08.19 I started my phd program at the Missouri University of Science and Technology in USA.
+- *2019.08.19 I started my phd program at the Missouri University of Science and Technology in USA.
