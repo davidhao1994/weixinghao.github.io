@@ -47,6 +47,8 @@ author_profile: true
 
 ![Example Image](/images/weixing_photo_3.jpg "This is an example image")
 
+- *2020.4.10* Our recent efforts on evaluating the filtration efficiencies of non-medical materials as candidates for homemade mask filters were reported by Missouri S&T Youtube: [The ultimate coronavirus face mask? Missouri S&T professor may have the answer](https://www.youtube.com/watch?v=xhckSGPT9Rg&t=1s).
+
 - *2020.01.07* I attend the gradute teaching assistant workshop and passed the test for becoming a official gradute teaching assistant.
 
 - *2019.10.19* I gave a poster presentation at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) at the University of Missouri on “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter”.
