@@ -9,31 +9,32 @@ author_profile: true
 
 Education
 ======
-* B.S. in Metallurgical Engineering, North China University of Science and Technology, 2016
-* M.S. in Metallurgical Engineering, University of Science and Technology Beijing, 2019
-* Ph.D in Civil and Environmental Engineering, Missouri University of Science and Technology (transferred to the University of Miami)
 * Ph.D in Chemical, Environmental and Materials Engineering, University of Miami, 2024 (expected)
+* Ph.D in Civil and Environmental Engineering, Missouri University of Science and Technology (transferred to the University of Miami)
+* M.S. in Metallurgical Engineering, University of Science and Technology Beijing, 2019
+* B.S. in Metallurgical Engineering, North China University of Science and Technology, 2016
 
 Work experience
 ======
-* 8/2019 - 8/2022: Graduate Research Assistant
-  * Missouri University of Science and Technology
-  * Supervisor: Dr. Yang Wang
+
+* 10/2023 - 1/2024: Pacific Northwest National Laboratory
+  * Visiting Researcher
+  * Supervisor: Dr. Fan Mei
     
-* 1/2020 - 5/2022: Graduate Teaching Assistant
+* 8/2022 - present: Graduate Research Assistant
+  * University of Miami
+  * Supervisor: Dr. Yang Wang
+
+ * 1/2020 - 5/2022: Graduate Teaching Assistant
   * Missouri University of Science and Technology
   * ENV ENG 5662 - Air Pollution Control
   * ENV ENG 3603 - Chemical Fundamentals of Environmental Engineering
   * ENV ENG 2601 - Fundamentals of Environmental Engineering and Science
-
-* 8/2022 - present: Graduate Research Assistant
-  * University of Miami
-  * Supervisor: Dr. Yang Wang   
-
-* 10/2023 - 1/2024: University of Miami
-  * Visiting Researcher
-  * Supervisor: Dr. Fan Mei
-      
+        
+* 8/2019 - 8/2022: Graduate Research Assistant
+  * Missouri University of Science and Technology
+  * Supervisor: Dr. Yang Wang
+          
 Skills
 ======
 * Skill 1
