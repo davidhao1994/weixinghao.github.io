@@ -11,3 +11,7 @@ main:
     
   - title: "News"
     url: /news/
+
+  - title: "Gallery"
+    url: /gallery/
+
