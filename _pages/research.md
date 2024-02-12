@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
   <ul>{% for post in site.research %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-research.html %}
   {% endfor %}</ul>
   
 ## **Filtration performances of household materials as candidates for facemasks**
