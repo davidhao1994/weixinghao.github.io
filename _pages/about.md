@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "Hello! Welcome to my space!"
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## **Hello! Welcome to my space!** 
 
 About me
 ======
