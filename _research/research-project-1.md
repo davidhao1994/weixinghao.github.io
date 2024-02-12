@@ -1,8 +1,23 @@
 ---
 title: "Filtration performances of household materials as candidates for facemasks"
 collection: research
+type: "Undergraduate course"
 permalink: /research/research-project-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
 
 Filtration performances of household materials as candidates for facemasks**
 * Investigated the filtration performance of common materials for potential use as filters in 3D-printed respirators and DIY facemasks during the COVID-19 pandemic.
