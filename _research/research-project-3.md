@@ -1,18 +1,9 @@
 ---
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Filtration performances of household materials as candidates for facemasks"
+collection: research
+type: "Research"
+permalink: /research/research-project-1
 ---
-
-{% include base_path %}
-
-  <ul>{% for post in site.research %}
-    {% include archive-single-research.html %}
-  {% endfor %}</ul>
-  
 ## **Filtration performances of household materials as candidates for facemasks**
 * Investigated the filtration performance of common materials for potential use as filters in 3D-printed respirators and DIY facemasks during the COVID-19 pandemic.
 * Determined the factors influencing the filtration performance of homemade face masks.
