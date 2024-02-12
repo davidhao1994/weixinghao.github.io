@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Metallurgical Engineering, North China University of Science and Technology, 2016
+lurgical Engineering, North China University of Science and Technology, 2016
