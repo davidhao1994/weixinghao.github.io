@@ -52,7 +52,7 @@ Publications
 Academic Activities
 ======
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-talk.html %}
   {% endfor %}</ul>
  •	10/2023	Oral presentation, 2023, 41st Annual American Association for Aerosol Research (AAAR), titled “Mapping the Performance of a Versatile Water-based Condensation Particle Counter (vWCPC) with Numerical Simulation and Experimental Study.”
 •	10/2022	Poster presentation, 2022, 40th Annual American Association for Aerosol Research (AAAR), titled “Influence of UV Irradiation on the Size-dependent Survivability of E. Coli-containing Bioaerosols.”
