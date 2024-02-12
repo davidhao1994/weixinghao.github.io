@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello! Welcome to my space!** 
+## **Hello! Welcome to my space!** 
 
 About me
 ======
@@ -40,4 +40,4 @@ My personal life
 
 
 
-**Welcome aboard!**
+## **Welcome aboard!**
