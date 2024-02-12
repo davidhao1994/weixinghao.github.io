@@ -20,6 +20,7 @@ Filtration performances of household materials as candidates for facemasks.	8/20
 •	Boosted filtration performance with triboelectric charging, but its fleeting effect due to charge dissipation suggests limited utility in homemade face coverings.
 •	Captured significant media attention from leading outlets such as the New York Times, BBC News, NPR News, etc.
 •	Technologies Utilized: Scanning Mobility Particle Sizer; Aerodynamic Particle Sizer; Condensation particle Counter; Constant Output Atomizer; Air Sampling Cassette; Scanning Electron Microscope; Manometer; Digital Microscope.
+
 Model simulation of laminar flow Condensation Particle Counters (CPC).	8/2019 - 5/2023
 •	Examined the performance of alcohol-based and water-based CPCs through numerical simulation.
 •	Understood the effects of varying operating conditions (temperature, flow rate, inlet pressure, geometry) and working fluids on CPC performance.
