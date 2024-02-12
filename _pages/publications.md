@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 {% assign publications = site.publications | sort: 'year' | reverse %}
 {% for publication in publications %}
-  {{ publication.reference }}
+  Year: {{ publication.year }} - {{ publication.reference }}
 {% endfor %}
 
 11. Li, Y., Peng, Z., Li, J., Wei, C., Liu, S., **Hao, W.**, ... & Wu, C. (2023). Wearable MXene‐Graphene Sensing of Influenza and SARS‐CoV‐2 Virus in Air and Breath: From Lab to Clinic. [Advanced Materials Technologies](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202201787) , 2201787.
