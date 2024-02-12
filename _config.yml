@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: false
     permalink: /:collection/:path/
@@ -244,7 +247,15 @@ defaults:
       layout: talk
       author_profile: false
       share: false
-
+  # _research
+    - scope:
+        path: ""
+        type: research
+      values:
+        layout: research
+        author_profile: true
+        share: true
+        
 # Sass/SCSS
 sass:
   sass_dir: _sass
