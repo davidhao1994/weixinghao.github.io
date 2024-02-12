@@ -18,6 +18,7 @@ My research journey has led me to explore critical topics that impact public hea
 
 My personal life
 ======
-I am passionate about traveling, exploring maps, and embarking on road trips, alongside my enthusiasm for reading, swimming, jogging, and fitness.
+- Passionate about traveling, exploring maps, and road trips.
+- Enjoys reading, swimming, and fitness activities.
 
 **Welcome aboard!**
