@@ -12,14 +12,12 @@ Hello! Welcome to my space! I'm Weixing, a fifth-year Ph.D. student at the [Univ
 
 My work and research
 ======
-My research interests cover diverse aspects of aerosol science and engineering, with a focus on the study of aerosols that affect our health and environment. My current research topic focuses on aerosol instrumentation, aerosol characterization and measurements, health-related aerosol mitigation, and indoor environmental behavior of bioaerosols. I have also studied air filtration and occupational health, specifically in filtration performances of non-medical materials as candidates for manufacturing facemasks and respirators during the COVID-19 pandemic.
+My research interests cover diverse aspects of -aerosol- science and engineering, with a focus on the study of aerosols that affect our health and environment. My current research topic focuses on aerosol instrumentation, aerosol characterization and measurements, health-related aerosol mitigation, and indoor environmental behavior of bioaerosols. I have also studied air filtration and occupational health, specifically in filtration performances of non-medical materials as candidates for manufacturing facemasks and respirators during the COVID-19 pandemic.
 
 My research journey has led me to explore critical topics that impact public health and environmental well-being. I am passionate about leveraging scientific insights to address real-world challenges and contribute to advancements in the field.
 
 My personal life
 ======
-I am also passionate about other hobbies: the thrill of traveling, the pleasure of browsing maps, and the excitement of formulating and embarking on road trips that have left me with unforgettable memories. These adventures have fueled my curiosity, deepened my understanding of geography and the world, and infused my professional work with a unique perspective.
-
-I am equally passionate about traversing the vast world of literature and reading books of all genres that transport me to different fields and eras. Reading not only broadens my horizons but also enriches my understanding of the world and its myriad narratives. In addition, I rejuvenate my mind and body through swimming and fitness to prepare myself for the challenges and excitement ahead.
+I am passionate about traveling, exploring maps, and embarking on road trips, alongside my enthusiasm for reading, swimming, jogging, and fitness.
 
 **Welcome aboard!**
