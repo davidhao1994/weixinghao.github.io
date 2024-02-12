@@ -22,11 +22,11 @@ My work and research
 
 * My current research topic focuses on:
 
-  * indoor environmental behavior of bioaerosols
-  * air filtration and occupational health
-  * health-related aerosol mitigation
-  * aerosol instrumentation
-  * aerosol characterization and measurements
+  * Indoor environmental behavior of bioaerosols
+  * Air filtration and occupational health
+  * Health-related aerosol mitigation
+  * Aerosol instrumentation
+  * Aerosol characterization and measurements
 
 * My research on the filtration performance of non-medical materials for facemasks and respirators during the COVID-19 pandemic gained media attention and the data was shared publicly on Google Sheets.
 
