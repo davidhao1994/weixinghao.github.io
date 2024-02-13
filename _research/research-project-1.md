@@ -3,9 +3,18 @@ title: "Filtration performances of household materials as candidates for facemas
 collection: research
 type: "Research"
 permalink: /research/research-project-1
-layout: single
-summary: "Investigated the filxxxgggdgdfd."
 ---
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
 
 •	Investigated the filtration performance of common materials for potential use as filters in 3D-printed respirators and DIY facemasks during the COVID-19 pandemic.
 •	Determined the factors influencing the filtration performance of homemade face masks.
