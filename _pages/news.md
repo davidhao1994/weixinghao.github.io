@@ -11,7 +11,7 @@ author_profile: true
 
 - *2023.10.13* I gave a seminar for our department.
 
-  <img src="/images/weixing_photo_3.jpg" alt="Example Image" width="300" /> <!-- Adjust width as needed -->
+  <img src="/weixinghao.github.io/images/weixing_photo_3.jpg" alt="Example Image" width="300" /> <!-- Adjust width as needed -->
 
 - *2023.10.13* I will have a three-month visit to the Pacific Northwest National Laboratory (PNNL) to work on analyzing atmospheric aerosol data and optimizing the working conditions of condensation particle counters.
 
