@@ -4,7 +4,7 @@ collection: research
 type: "Research"
 permalink: /research/research-project-1
 layout: single
-excerpt: "jfkafhdksjhfkjdshfdskjhfdskjahfdskjhfkjdshfkjdshfkjdshfkjds"
+excerpt: "weixing"
 ---
 
 
