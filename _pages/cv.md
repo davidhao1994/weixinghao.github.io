@@ -32,11 +32,13 @@ Work experience
   * University of Miami
   * Supervisor: [Dr. Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707)
 
- * 1/2020 - 5/2022: **Graduate Teaching Assistant**
+ * 8/2019 - present: **Graduate Teaching Assistant**
+   * University of Miami
+       * Introduction to Environmental Engineering (CET 340, Spring 2024)
    * Missouri University of Science and Technology
-   * ENV ENG 5662 - Air Pollution Control
-   * ENV ENG 3603 - Chemical Fundamentals of Environmental Engineering
-   * ENV ENG 2601 - Fundamentals of Environmental Engineering and Science
+       * Chemical Fundamentals of Environmental Engineering (ENV ENG 3603, Spring 2021, Spring 2022)
+       * Air Pollution Control (ENV ENG 5662, Fall 2021 )
+       * Fundamentals of Environmental Engineering and Science (ENV ENG 2601, Spring 2020 )
         
 * 8/2019 - 8/2022: **Graduate Research Assistant**
   * Missouri University of Science and Technology
@@ -57,7 +59,7 @@ Journal Review Activities
 
 Teaching
 ======
-  * Chemical Fundamentals of Environmental Engineering (ENV ENG 3603, Spring 2021, Spring 20212022)
+  * Chemical Fundamentals of Environmental Engineering (ENV ENG 3603, Spring 2021, Spring 2022)
   * Fundamentals of Environmental Engineering and Science (ENV ENG 2601, Spring 2020 )
    
 Academic Activities
