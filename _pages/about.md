@@ -19,7 +19,7 @@ My work and research
 * My research interests cover diverse aspects of **aerosol science and engineering**.
 
 * My current research topic focuses on:
-  * Indoor environmental behavior of bioaerosols
+  * Indoor bioaerosols
   * Air filtration and occupational health
   * Health-related aerosol mitigation
   * Aerosol instrumentation
