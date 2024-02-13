@@ -7,7 +7,32 @@ layout: single
 excerpt: "NPF identification"
 ---
 
+## Goals
+- Investigate the filtration performance of common materials for potential use as
+filters in 3D-printed respirators and DIY facemasks during the COVID-19 pandemic.
+- Determine the factors influencing the filtration performance of homemade face
+masks.
 
+## Key Findings
+- **N95-Level Efficiency**: Achieved with multiple layers of household air filters, maintaining breathability.
+- **Optimal Material Combinations**: A blend of fibrous and fabric materials is recommended for effective aerosol removal.
+- **Fabric Reusability**: Materials maintained filtration efficiency after washing and drying, supporting sustainable practices.
+- **Triboelectric Charging**: Provided a temporary boost in filtration performance, though its practicality for long-term use is limited.
+
+## Media Attention
+The study's implications for public health during the pandemic attracted attention from leading media outlets, including the New York Times, BBC News, and NPR News.
+
+## Technologies Utilized
+- Scanning Mobility Particle Sizer
+- Aerodynamic Particle Sizer
+- Condensation Particle Counter
+- Constant Output Atomizer
+- Air Sampling Cassette
+- Scanning Electron Microscope
+- Manometer
+- Digital Microscope
+
+## Selected Publications
 
 •	Investigated the filtration performance of common materials for potential use as filters in 3D-printed respirators and DIY facemasks during the COVID-19 pandemic.
 •	Determined the factors influencing the filtration performance of homemade face masks.
