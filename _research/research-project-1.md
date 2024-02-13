@@ -16,4 +16,4 @@ permalink: /research/research-project-1
 •	Boosted filtration performance with triboelectric charging, but its fleeting effect due to charge dissipation suggests limited utility in homemade face coverings.
 •	Captured significant media attention from leading outlets such as the New York Times, BBC News, NPR News, etc.
 •	Technologies Utilized: Scanning Mobility Particle Sizer; Aerodynamic Particle Sizer; Condensation particle Counter; Constant Output Atomizer; Air Sampling Cassette; Scanning Electron Microscope; Manometer; Digital Microscope.
-
+ddd
