@@ -12,7 +12,7 @@ redirect_from:
 
 * My academic journey is guided by the expertise of [Dr. Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707), and I spend most of my research hours in the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html). 
 
-* I am also an active member of the [Center for Aerosol Science and Technology (CAST)](https://cast.miami.edu/) at the University of Miami.
+* I am also an active member of the [Center for Aerosol Science and Technology (CAST)](https://cast.miami.edu/) at the University of Miami.![Editing a markdown file for a talk](/images/bio-photo.jpg)
 
 My work and research
 ======
