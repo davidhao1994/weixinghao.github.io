@@ -42,20 +42,3 @@ The study's implications for public health during the pandemic attracted attenti
 2\. **Hao, W.**, G. Xu, Y. Wang. 2021. Factors influencing the filtration performance of homemade face masks. [*Journal of Occupational and Environmental Hygiene*](https://www.tandfonline.com/doi/full/10.1080/15459624.2020.1868482)  18:128-138. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_2.pdf)
 
 1\. **Hao, W.**, A. Parasch, S. Williams, J. Li, H. Ma, J. Burken, Y. Wang. 2020. Filtration performances of non-medical materials as candidates for manufacturing facemasks and respirators. [*International Journal of Hygiene and Environmental Health*](https://www.sciencedirect.com/science/article/pii/S1438463920305289?dgcid=author) 229:113582. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_1.pdf)
-
-• Evaluated the filtration efficiency of over 250 different non-medical and fabric
-materials and freely shared with the public.
-• Assessed the breathability of each material to ensure user comfort.
-• Achieved similar N95 filtration efficiency using multiple layers of household air
-filters without significant flow resistance increase.
-• Recommended manufacturing homemade facemasks with a combination of fibrous
-and fabric materials to guarantee the sufficient removal of aerosols.
-• Determined that washing and drying showed good reusability for fabric materials.
-• Boosted filtration performance with triboelectric charging, but its fleeting effect due
-to charge dissipation suggests limited utility in homemade face coverings.
-• Captured significant media attention from leading outlets such as the New York
-Times, BBC News, NPR News, etc
-
-Technologies Utilized: 
-Scanning Mobility Particle Sizer; Aerodynamic Particle Sizer; Condensation particle Counter; Constant Output Atomizer; Air Sampling Cassette; Scanning Electron Microscope; Manometer; Digital Microscope.
-Selected Publications:
