@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- *2024.01.10* I had a successful second Center for Aerosol Science and Technology (CAST) Workshop!
+- *2024.01.10* I had a successful second Center for Aerosol Science and Technology (CAST) Workshop
 
 - *2023.10.13* I gave a seminar for our department.
  ![Editing a markdown file for a talk](/images/bio-photo.jpg)
