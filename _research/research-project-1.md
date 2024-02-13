@@ -4,6 +4,7 @@ collection: research
 type: "Research"
 permalink: /research/research-project-1
 ---
+
 ## **Filtration performances of household materials as candidates for facemasks**
 •	Investigated the filtration performance of common materials for potential use as filters in 3D-printed respirators and DIY facemasks during the COVID-19 pandemic.
 •	Determined the factors influencing the filtration performance of homemade face masks.
