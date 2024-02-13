@@ -7,9 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## **2024**
 - *2024.01.10* I had a successful second Center for Aerosol Science and Technology (CAST) Workshop
 <img src="https://davidhao1994.github.io/weixinghao.github.io/images/weixing_photo_3.jpg" alt="Example Image" width="300" />
-
+## **2023**
 - *2023.10.13* I gave a seminar for our department.  
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/weixing_photo_3.jpg" alt="Example Image" width="300" />
@@ -30,15 +31,16 @@ author_profile: true
 - *2023.03.01* I attended the research day at College of Engineering
 
 - *2023.01.18* It was great interacting with everyone at our 1st Center for Aerosol Science and Technology (CAST) workshop at UM! 
-
+## **2022**
 - *2022.10.07* I presented my work on size-dependent bioaerosol-UV interactions at the 40th Annual Conference of the American Association for Aerosol Research (AAAR) in Raleigh, NC.
 
 - *2022.05.10* My work, “A filter-based system mimicking the particle deposition and penetration in human respiratory system for secondhand smoke generation and characterization” has been published in Inhalation Toxicology.
-
+## **2021**
 - *2021.10.21* Weixing gave four presentations at the 2021 AAAR conference. Links to their presentations can be found on our group’s YouTube channel.
 
 - *2021.7.8* My paper on simulating laminar flow CPC is published in the Journal of Aerosol Science!
   
+ ## **2020** 
 - *2020.12.31* CIVIL, ARCHITECTURAL AND ENVIRONMENTAL ENGINEERING Missouri University of Science and Technology [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports)
 
 - *2020.12.24* My paper “Factors Influencing the Filtration Performance of Homemade Face Masks,” was published by  J. Occup. Environ. Health.!
@@ -63,18 +65,22 @@ author_profile: true
   
 - *2020.5* [The bridge](https://care.mst.edu/media/academic/care/documents/bridge/The%20Bridge_Spring%202020.pdf)
   
-- *2020.4.13* Given the COVID-19 situation and the urgent need for medical masks, we will test a wide range of household materials and common commercial fabrics that can be used to manufacture masks. The results were updated daily on Google sheet: https://www.tinyurl.com/ve28f3l
+- *2020.4.13* Given the COVID-19 situation and the urgent need for medical masks, we will test a wide range of household materials and common commercial fabrics that can be used to manufacture masks. The results were updated daily on [Google sheet](https://www.tinyurl.com/ve28f3l)
 
 - *2020.4.10* Our recent efforts on evaluating the filtration efficiencies of non-medical materials as candidates for homemade mask filters were reported by multiple news platforms such as [New York Times](https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html), [BBC News](https://www.bbc.com/future/article/20200504-coronavirus-what-is-the-best-kind-of-face-mask), [NPR News](https://www.npr.org/sections/goatsandsoda/2020/04/22/840146830/adding-a-nylon-stocking-layer-could-boost-protection-from-cloth-masks-study-find), [C&EN News](https://cen.acs.org/materials/Scientists-take-closer-look-materials/98/i25), [Daily Herald](https://www.dailyherald.com/news/20200407/what-makes-for-a-good-homemade-face-mask/), [Today](https://www.today.com/style/what-type-fabric-best-face-masks-t179615), [Newsy](https://scrippsnews.com/stories/which-diy-masks-actually-work/), etc.
 
 - *2020.4.10* My work on evaluating the filtration efficiencies of non-medical materials as candidates for homemade mask filters was reported by Missouri S&T Youtube: [The ultimate coronavirus face mask? Missouri S&T professor may have the answer](https://www.youtube.com/watch?v=xhckSGPT9Rg&t=1s).
   
 - *2020.4.5* [Environmental engineers study fabrics, materials for face covers](https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/)
-- 
+  <div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/DIY-facemask.jpg" alt="Example Image" width="300" />
+</div>
 - *2020.01.07* I attended the graduate teaching assistant workshop and passed the test for becoming an official graduate teaching assistant.
+
+## **2019**
 
 - *2019.10.19* I gave a poster presentation at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) at the University of Missouri on “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter”.
 
 - *2019.09.01* I started working on my CPC simulation project.![Example Image](/images/weixing_photo_3.jpg "This is an example image")
   
-- *2019.08.19* I started my Ph.D. program at [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html). at the [Missouri University of Science and Technology](https://www.mst.edu/)in the USA.
+- *2019.08.19* I started my Ph.D. program at [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html) at the [Missouri University of Science and Technology](https://www.mst.edu/)in the USA.
