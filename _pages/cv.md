@@ -24,39 +24,41 @@ Education
 
 Work experience
 ======
-* 10/2023 - 1/2024: Pacific Northwest National Laboratory
-  * Visiting Researcher
+* 10/2023 - 1/2024: **Visiting Researcher**
+  * Pacific Northwest National Laboratory
   * Supervisor: [Dr. Fan Mei](https://www.pnnl.gov/people/fan-mei)
 
-* 8/2022 - present: Graduate Research Assistant
+* 8/2022 - present: **Graduate Research Assistant**
   * University of Miami
   * Supervisor: [Dr. Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707)
 
- * 1/2020 - 5/2022: Graduate Teaching Assistant
+ * 1/2020 - 5/2022: **Graduate Teaching Assistant**
    * Missouri University of Science and Technology
    * ENV ENG 5662 - Air Pollution Control
    * ENV ENG 3603 - Chemical Fundamentals of Environmental Engineering
    * ENV ENG 2601 - Fundamentals of Environmental Engineering and Science
         
-* 8/2019 - 8/2022: Graduate Research Assistant
+* 8/2019 - 8/2022: **Graduate Research Assistant**
   * Missouri University of Science and Technology
   * Supervisor: [Dr. Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707)
           
 Skills
 ======
-  * 1
-  * 2
-  * 3
+  * 1 experimental skills:
+      * aerosol experiments
+      * microbiology experiments:
+  * 2 modeling skills: comsol CFD
+  * 3 Machine learning skills:matlab, python
     
-Service
+Journal Review Activities
 ======
-Reviewer Activities of Journals: 28 publications peer review from 10 journals
-* PLOS One; Scientific Report; Aerosol Science & Technology; Atmospheric Measurement Techniques; Planetary and Space Science; ACS Omega; Journal of hazardous materials; Journal of Aerosol Science; ACS Environment & Health; Frontiers of Environmental Science & Engineering
+28 peer reviews from 10 journals
+*PLOS One; Scientific Report; Aerosol Science & Technology; Atmospheric Measurement Techniques; Planetary and Space Science; ACS Omega; Journal of hazardous materials; Journal of Aerosol Science; ACS Environment & Health; Frontiers of Environmental Science & Engineering*
 
 Teaching
 ======
-  * ENV ENG 3603 - Chemical Fundamentals of Environmental Engineering
-  * ENV ENG 2601 - Fundamentals of Environmental Engineering and Science
+  * Chemical Fundamentals of Environmental Engineering (ENV ENG 3603, Spring 2021, Spring 20212022)
+  * Fundamentals of Environmental Engineering and Science (ENV ENG 2601, Spring 2020 )
    
 Academic Activities
 ======
