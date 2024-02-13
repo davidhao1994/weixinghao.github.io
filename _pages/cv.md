@@ -37,8 +37,8 @@ Work experience
        * Introduction to Environmental Engineering (CET 340, Spring 2024)
    * Missouri University of Science and Technology
        * Chemical Fundamentals of Environmental Engineering (ENV ENG 3603, Spring 2021, Spring 2022)
-       * Air Pollution Control (ENV ENG 5662, Fall 2021 )
-       * Fundamentals of Environmental Engineering and Science (ENV ENG 2601, Spring 2020 )
+       * Air Pollution Control (ENV ENG 5662, Fall 2021)
+       * Fundamentals of Environmental Engineering and Science (ENV ENG 2601, Fall 2019, Spring 2020)
         
 * 8/2019 - 8/2022: **Graduate Research Assistant**
   * Missouri University of Science and Technology
@@ -54,13 +54,14 @@ Skills
     
 Journal Review Activities
 ======
-28 peer reviews from 10 journals
+28 peer reviews from 10 journals:
+
 *PLOS One; Scientific Report; Aerosol Science & Technology; Atmospheric Measurement Techniques; Planetary and Space Science; ACS Omega; Journal of hazardous materials; Journal of Aerosol Science; ACS Environment & Health; Frontiers of Environmental Science & Engineering*
 
 Teaching
 ======
   * Chemical Fundamentals of Environmental Engineering (ENV ENG 3603, Spring 2021, Spring 2022)
-  * Fundamentals of Environmental Engineering and Science (ENV ENG 2601, Spring 2020 )
+  * Fundamentals of Environmental Engineering and Science (ENV ENG 2601, Spring 2020)
    
 Academic Activities
 ======
