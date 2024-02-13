@@ -64,4 +64,6 @@ Teaching
   
 Service and leadership
 ======
-* Curren
+Reviewer Activities of Journals: 28 publications peer review from 10 journals
+* PLOS One; Scientific Report; Aerosol Science & Technology; Atmospheric Measurement Techniques; Planetary and Space Science; ACS Omega; Journal of hazardous materials; Journal of Aerosol Science; ACS Environment & Health; Frontiers of Environmental Science & Engineering![image](https://github.com/davidhao1994/weixinghao.github.io/assets/148392768/76337f1b-58eb-4e22-9d5f-ef28f5f8ffeb)
+
