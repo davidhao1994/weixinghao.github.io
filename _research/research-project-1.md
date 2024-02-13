@@ -1,11 +1,10 @@
 ---
-title: "Filtration performances in DIY Facemasks""
+title: "Filtration performances in DIY Facemasks"
 collection: research
 type: "Research"
 permalink: /research/research-project-1
 layout: single
 excerpt: "This study examined over 250 non-medical and fabric materials for use in DIY masks and 3D-printed respirators during the COVID-19 crisis, focusing on filtration efficiency and breathability. Achievements include N95-level efficiency with household air filters, optimal material combinations for aerosol removal, and fabric reusability through washing. Triboelectric charging briefly enhanced filtration but was considered impractical for long-term use. The research gained significant media attention, underscoring its impact on public health practices during the pandemic."
-
 ---
 
 ## Goals:
