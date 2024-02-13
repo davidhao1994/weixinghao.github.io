@@ -9,8 +9,8 @@ author_profile: true
 
 - *2024.01.10* I had a successful second Center for Aerosol Science and Technology (CAST) Workshop
 <img src="https://davidhao1994.github.io/weixinghao.github.io/images/weixing_photo_3.jpg" alt="Example Image" width="300" />
-- *2023.10.13* I gave a seminar for our department.
-  
+
+- *2023.10.13* I gave a seminar for our department.  
 <div style="text-align: center;">
     <img src="{{https://davidhao1994.github.io/weixinghao.github.io/images/weixing_photo_3.jpg" alt="Example Image" width="300" />
 </div>
