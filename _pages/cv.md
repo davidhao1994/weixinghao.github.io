@@ -47,11 +47,11 @@ Academic Activities
 - 10/2022	Poster presentation, 2022, [40th Annual American Association for Aerosol Research (AAAR)](https://www.aaar.org/2022/), titled “Influence of UV Irradiation on the Size-dependent Survivability of E. Coli-containing Bioaerosols.”
 - 03/2022	Poster presentation, 2022, [Center for Biomedical Research (CBR) Symposium](https://cbr.mst.edu/media/research/cbr/documents/Symposium%20Pgm.pdf#220801013629), Missouri S&T, titled “Measuring the load and viability of biological aerosols.”
 - 10/2021	Oral presentation, 2021, [39th Annual American Association for Aerosol Research (AAAR)](https://www.aaar.org/2021/), titled “Optimizing the activation efficiency of sub-3 nm particles in a laminar flow Condensation Particle Counter by model simulation.”
-- 10/2021	Oral presentation, 2021, [39th Annual American Association for Aerosol Research (AAAR)], titled “A simulated respiratory system for secondhand smoke generation and characterization.”
+- 10/2021	Oral presentation, 2021, [39th Annual American Association for Aerosol Research (AAAR)](https://www.aaar.org/2021/), titled “A simulated respiratory system for secondhand smoke generation and characterization.”
 - 10/2020	Oral presentation, 2020, [25th Annual Mid-American Environmental & Engineering Conference (MAEEC)](https://www.siue.edu/engineering/civil-engineering/about/2020_MAEEC_Keynote_Speaker_Information.pdf), titled “Filtration performance of common non-medical materials used in homemade face coverings.”
 - 10/2020	Poster presentation, 2020, [38th Annual American Association for Aerosol Research (AAAR)](https://www.aaar.org/2020/), titled “Filtration performances of
 non-medical materials as candidates for homemade face mask filters.”
-- 10/2019	Poster presentation, 2019, [24th Annual Mid-American Environmental & Engineering Conference (MAEEC)], titled “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter.”
+- 10/2019	Poster presentation, 2019, 24th Annual Mid-American Environmental & Engineering Conference (MAEEC), titled “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter.”
  
 Teaching
 ======
