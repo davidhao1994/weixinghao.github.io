@@ -6,7 +6,9 @@ permalink: /research/research-project-3
 layout: single
 ---
 
-## **Understanding the evolution and transport of indoor bioaerosols**
+This is a description of a teaching experience. You can use markdown like any other post.
+
+
 * Understand the viability of bioaerosols based on their sizes in indoor environments, factoring in ultraviolet germicidal irradiation, ozone, time decay, relative humidity, and temperature influences.
 * Develop a simulated respiratory system for producing secondhand smoke and mimicking aerosol deposition akin to the human respiratory system.
 * Established a chamber specifically for bioaerosol generation.
