@@ -4,10 +4,10 @@ collection: research
 type: "Research"
 permalink: /research/research-project-1
 layout: single
-"excerpt: <div>
+excerpt: "<div>
     <p>This study examined over 250 non-medical and fabric materials for use in DIY masks and 3D-printed respirators during the COVID-19 pandemic, focusing on filtration efficiency and breathability. Achievements include N95-level efficiency with household air filters, optimal material combinations for aerosol removal, and fabric reusability through washing. Triboelectric charging briefly enhanced filtration but was considered impractical for long-term use. The research gained significant media attention, underscoring its impact on public health practices during the pandemic.</p>
-    <div style=\"text-align: center;\">
-        <img src=\"https://davidhao1994.github.io/weixinghao.github.io/images/mask-me.jpg\" alt=\"Example Image\" width=\"300\" />
+    <div style='text-align: center;'>
+        <img src='https://davidhao1994.github.io/weixinghao.github.io/images/mask-me.jpg' alt='Example Image' width='300' />
     </div>
 </div>"
 ---
