@@ -9,14 +9,10 @@ author_profile: true
 
 ## **2024**
 - *2024.01.10* I had a successful second Center for Aerosol Science and Technology (CAST) Workshop
-<img src="https://davidhao1994.github.io/weixinghao.github.io/images/weixing_photo_3.jpg" alt="Example Image" width="300" />
+
 ## **2023**
-- *2023.10.13* I gave a seminar for our department.  
-<div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/weixing_photo_3.jpg" alt="Example Image" width="300" />
-</div>
-
-
+- *2023.10.13* I gave a seminar for our department.
+  
 - *2023.10.13* I will have a three-month visit to the Pacific Northwest National Laboratory (PNNL) to work on analyzing atmospheric aerosol data and optimizing the working conditions of condensation particle counters.
 
 - *2023.09.15* I received the travel grant from AAAR to attend the 41st AAAR Annual Conference! I also contribute to AAAR as a student volunteer and judge at the conference! I gave one platform presentation at the AAAR meeting in Portland! 
@@ -24,28 +20,24 @@ author_profile: true
 - *2023.04.07* I attended the Air Pollution Workshop at the University in Florida hosted by Dr. Myoseon Jang. I gave an oral presentation at the workshop.
 
 - *2023.04.07* I gave a talk for the NBCC Student Association.
-    ![Example Image](/images/weixing_photo_3.jpg) 
 
 - *2023.03.22* I attended the research seminar at the University of Miami.
 
 - *2023.03.01* I attended the research day at College of Engineering
 
 - *2023.01.18* It was great interacting with everyone at our 1st Center for Aerosol Science and Technology (CAST) workshop at UM!
-- 
+  
 ## **2022**
-
 - *2022.10.07* I presented my work on size-dependent bioaerosol-UV interactions at the 40th Annual Conference of the American Association for Aerosol Research (AAAR) in Raleigh, NC.
 
 - *2022.05.10* My work, “A filter-based system mimicking the particle deposition and penetration in human respiratory system for secondhand smoke generation and characterization” has been published in Inhalation Toxicology.
   
 ## **2021**
-
 - *2021.10.21* Weixing gave four presentations at the 2021 AAAR conference. Links to their presentations can be found on our group’s YouTube channel.
 
 - *2021.7.8* My paper on simulating laminar flow CPC is published in the Journal of Aerosol Science!
 
 ## **2020** 
-
 - *2020.12.31* CIVIL, ARCHITECTURAL AND ENVIRONMENTAL ENGINEERING Missouri University of Science and Technology [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports)
 
 - *2020.12.24* My paper “Factors Influencing the Filtration Performance of Homemade Face Masks,” was published by  J. Occup. Environ. Health.!
@@ -80,12 +72,24 @@ author_profile: true
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/DIY-facemask.jpg" alt="Example Image" width="300" />
 </div>
-- *2020.01.07* I attended the graduate teaching assistant workshop and passed the test for becoming an official graduate teaching assistant.
+
+- *2020.04.01*  Our results was posted in twitter as "Out of curiosity, we tested non-medical materials for filtration. A scarf is NOT helpful for filtering aerosols, which may carry coronavirus. Instead, what about furnace filter/pillowcase?", draw much attention. We were using a face velocity of 23 cm/s because we need to insert this 75 mm diameter filter disc into our 3D printed respirator. We were assuming a inhale flow rate of 60 lpm. Error bars are on their way...
+<div style="display: flex; justify-content: center;">
+    <div>
+        <img src="https://davidhao1994.github.io/weixinghao.github.io/images/twitter-1.jiff" alt="Example Image 1" width="300" />
+    </div>
+    <div>
+        <img src="https://davidhao1994.github.io/weixinghao.github.io/images/twitter-2.jiff)" width="300" />
+    </div>
+</div>
+
+- *2020.03.24* I worked with Missouri S&T 3D-printed respirator team to evaluate the filtration efficiencies of various materials as filters candidates. 
+
+- *2020.01.07* I attended the Graduate Teaching Assistantship Workshop and lectured on "Air Pollution Control - Particulate Matter (PM)", passed the assessment and received a full Graduate Teaching Assistantship Certificate.
 
 ## **2019**
+- *2019.10.19* I gave a poster presentation at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) at the University of Missouri titled “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter”.
 
-- *2019.10.19* I gave a poster presentation at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) at the University of Missouri on “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter”.
-
-- *2019.09.01* I started working on my CPC simulation project.![Example Image](/images/weixing_photo_3.jpg "This is an example image")
+- *2019.09.01* I started working on a numerical simulation project for condensation particle counters (CPCs).
   
-- *2019.08.19* I started my Ph.D. program at [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html) at the [Missouri University of Science and Technology](https://www.mst.edu/)in the USA.
+- *2019.08.19* I started my Ph.D. program at the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html) at the [Missouri University of Science and Technology](https://www.mst.edu/) in the United States.
