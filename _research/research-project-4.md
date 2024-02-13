@@ -8,36 +8,36 @@ excerpt: ""
 excerpt: "<div>
     <p>This study presents a filter-based system designed to mimic human respiratory deposition of secondhand smoke, offering an alternative for research without human subjects. Through the comparison of deposition efficiencies with the ICRP model and analysis of harmful metal concentrations in secondhand smoke, the system proves effective for simulating smoke exposure. It provides a straightforward, repeatable, and controllable method for studying the health impacts of secondhand smoke.</p>
     <div style='text-align: center;'>
-        <img src='https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4.jpg' alt='Example Image' width='400' />
+        <img src='https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4.jpg' alt='Example Image' width='500' />
     </div>
 </div>"
 ---
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-1.jpg" alt="Example Image" width="300" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-1.jpg" alt="Example Image" width="500" />
 </div>
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-2.jpg" alt="Example Image" width="300" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-2.jpg" alt="Example Image" width="500" />
 </div>
 
 ## Goals
 - Develop a system to simulate secondhand smoke generation and characterization, mimicking human respiratory particle deposition.
 - Validate the system's efficacy in replicating the deposition efficiencies of the human respiratory system for secondhand smoke studies.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-goal.jpg" alt="Example Image" width="300" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-goal.jpg" alt="Example Image" width="500" />
 </div>
 
 ## Key Findings
 - **Respiratory System Mimicry**: Achieved deposition efficiencies within 10% of the International Commission on Radiological Protection (ICRP) model for particles sized 30 to 500 nm.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-agree.jpg" alt="Example Image" width="300" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-agree.jpg" alt="Example Image" width="500" />
 </div>
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-compare.jpg" alt="Example Image" width="300" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-compare.jpg" alt="Example Image" width="500" />
 </div>
 
 - **Health Risk Indicators**: Detected high concentrations of harmful metals like Ni and Cr in secondhand smoke, significantly exceeding regulated intake levels, especially from electronic cigarettes.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-metal.jpg" alt="Example Image" width="300" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-metal.jpg" alt="Example Image" width="500" />
 </div>
 
 ## Technologies Utilized
