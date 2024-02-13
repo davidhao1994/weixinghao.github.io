@@ -14,7 +14,7 @@ Education
 * M.S. in Metallurgical Engineering, University of Science and Technology Beijing, 2019
 * B.S. in Metallurgical Engineering, North China University of Science and Technology, 2016
 
-<iframe src="https://davidhao1994.github.io/weixinghao.github.io/images/paper1/pdf" width="100%" height="500px">
+<iframe src="https://davidhao1994.github.io/weixinghao.github.io/images/paper1.pdf" width="100%" height="500px">
     <p>Your browser does not support iframes.</p>
 </iframe>
 
