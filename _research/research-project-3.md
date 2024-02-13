@@ -4,7 +4,7 @@ collection: research
 type: "Research"
 permalink: /research/research-project-3
 layout: single
-excerpt: "This study investigates the viability and control of bioaerosols in indoor environments, with a focus on understanding how factors such as ultraviolet germicidal irradiation, ozone, temperature, and humidity influence the decay of airborne pathogens. Utilizing advanced techniques like the Sioutas Cascade Impactor and qPCR. Our findings reveal a size-dependent efficacy of UV irradiation on reducing *E. coli* viability, particularly in smaller bioaerosols. This research provides critical insights into optimizing indoor air quality controls to mitigate the transmission of respiratory pathogens."
+excerpt: "This study investigates the viability and control of bioaerosols in indoor environments, with a focus on understanding how factors such as ultraviolet germicidal irradiation(UVGI), ozone, temperature, and humidity influence the decay of airborne pathogens. Our findings reveal a size-dependent efficacy of UVGI in reducing *E. coli* viability, particularly in smaller bioaerosols. This research provides critical insights into optimizing indoor air quality controls to mitigate the transmission of respiratory pathogens."
 ---
 
 ## Goals
