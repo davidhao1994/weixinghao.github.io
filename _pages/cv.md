@@ -11,6 +11,8 @@ author_profile: true
     <p>Your browser does not support iframes.</p>
 </iframe>
 
+You can download a PDF copy of my CV [here](https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_02132024.pdf).
+
 Education
 ======
 * Ph.D in Chemical, Environmental and Materials Engineering, University of Miami, 2024 (expected)
