@@ -28,7 +28,7 @@ excerpt: "<div>
 
 ## Key Findings
 - **Respiratory System Mimicry**: Achieved deposition efficiencies within 10% of the International Commission on Radiological Protection (ICRP) model for particles sized 30 to 500 nm.
-  <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-agree.jpg" alt="Example Image" width="300" />
 </div>
 <div style="text-align: center;">
