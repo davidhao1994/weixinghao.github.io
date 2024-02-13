@@ -8,22 +8,22 @@ author_profile: true
 {% include base_path %}
 
 ## **2024**
-- *2024.01.10* I had a successful second Center for Aerosol Science and Technology (CAST) Workshop
+- *2024.01.10* I attended the second Workshop hosted by Center for Aerosol Science and Technology (CAST)and gave a poster presentation titled "Machine Learning (ML) Aided Prediction of New Particle Formation (NPF) and Analyzing Environmental Variable Relationships"
 
 ## **2023**
-- *2023.10.13* I gave a seminar for our department.
+- *2023.10.13* I gave a seminar talk for our department with the title of xxxx.
   
 - *2023.10.13* I will have a three-month visit to the Pacific Northwest National Laboratory (PNNL) to work on analyzing atmospheric aerosol data and optimizing the working conditions of condensation particle counters.
 
 - *2023.09.15* I received the travel grant from AAAR to attend the 41st AAAR Annual Conference! I also contribute to AAAR as a student volunteer and judge at the conference! I gave one platform presentation at the AAAR meeting in Portland! 
 
-- *2023.04.07* I attended the Air Pollution Workshop at the University in Florida hosted by Dr. Myoseon Jang. I gave an oral presentation at the workshop.
+- *2023.04.07* I attended the Air Pollution Workshop at the University in Florida. I gave an oral presentation at the workshop.
 
 - *2023.04.07* I gave a talk for the NBCC Student Association.
 
 - *2023.03.22* I attended the research seminar at the University of Miami.
 
-- *2023.03.01* I attended the research day at College of Engineering
+- *2023.03.01* I attended the research day at the College of Engineering
 
 - *2023.01.18* It was great interacting with everyone at our 1st Center for Aerosol Science and Technology (CAST) workshop at UM!
   
@@ -33,7 +33,7 @@ author_profile: true
 - *2022.05.10* My work, “A filter-based system mimicking the particle deposition and penetration in human respiratory system for secondhand smoke generation and characterization” has been published in Inhalation Toxicology.
   
 ## **2021**
-- *2021.10.21* Weixing gave four presentations at the 2021 AAAR conference. Links to their presentations can be found on our group’s YouTube channel.
+- *2021.10.21* I gave two presentations at the 2021 AAAR conference. Links to their presentations can be found on our group’s YouTube channel.
 
 - *2021.7.8* My paper on simulating laminar flow CPC is published in the Journal of Aerosol Science!
 
@@ -54,7 +54,7 @@ author_profile: true
   
 - *2020.8.4* My work was featured at the Missouri S&T News [Environmental engineers study face-mask materials](https://magazine.mst.edu/2020/08/environmental-engineers-study-face-mask-materials/).
   
-- *2020.7.21* Our paper evaluating the filtration performance of common household materials is published in the International Journal of Hygiene and Environmental Health.
+- *2020.7.21* My paper evaluating the filtration performance of common household materials is published in the International Journal of Hygiene and Environmental Health.
   
 - *2020.7.21* [Missouri S&T Magazine Summer 2020](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1063&context=alumni-magazine)
   
