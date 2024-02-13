@@ -30,17 +30,22 @@ author_profile: true
 
 - *2023.03.01* I attended the research day at College of Engineering
 
-- *2023.01.18* It was great interacting with everyone at our 1st Center for Aerosol Science and Technology (CAST) workshop at UM! 
+- *2023.01.18* It was great interacting with everyone at our 1st Center for Aerosol Science and Technology (CAST) workshop at UM!
+- 
 ## **2022**
+
 - *2022.10.07* I presented my work on size-dependent bioaerosol-UV interactions at the 40th Annual Conference of the American Association for Aerosol Research (AAAR) in Raleigh, NC.
 
 - *2022.05.10* My work, “A filter-based system mimicking the particle deposition and penetration in human respiratory system for secondhand smoke generation and characterization” has been published in Inhalation Toxicology.
+  
 ## **2021**
+
 - *2021.10.21* Weixing gave four presentations at the 2021 AAAR conference. Links to their presentations can be found on our group’s YouTube channel.
 
 - *2021.7.8* My paper on simulating laminar flow CPC is published in the Journal of Aerosol Science!
-  
- ## **2020** 
+
+## **2020** 
+
 - *2020.12.31* CIVIL, ARCHITECTURAL AND ENVIRONMENTAL ENGINEERING Missouri University of Science and Technology [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports)
 
 - *2020.12.24* My paper “Factors Influencing the Filtration Performance of Homemade Face Masks,” was published by  J. Occup. Environ. Health.!
@@ -72,7 +77,7 @@ author_profile: true
 - *2020.4.10* My work on evaluating the filtration efficiencies of non-medical materials as candidates for homemade mask filters was reported by Missouri S&T Youtube: [The ultimate coronavirus face mask? Missouri S&T professor may have the answer](https://www.youtube.com/watch?v=xhckSGPT9Rg&t=1s).
   
 - *2020.4.5* [Environmental engineers study fabrics, materials for face covers](https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/)
-  <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/DIY-facemask.jpg" alt="Example Image" width="300" />
 </div>
 - *2020.01.07* I attended the graduate teaching assistant workshop and passed the test for becoming an official graduate teaching assistant.
