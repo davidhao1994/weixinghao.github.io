@@ -14,7 +14,7 @@ description              : "personal description"
 url                      : "https://davidhao1994.github.io/weixinghao.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weixinghao.github.io"
-teaser                   : "weixing_photo_2.jpg"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
