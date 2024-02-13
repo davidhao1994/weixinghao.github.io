@@ -9,11 +9,11 @@ author_profile: true
 
 CV
 ======
-<iframe src="https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_02132024.pdf" width="80%" height="600px">
+<iframe src="https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_02132024.pdf" width="90%" height="600px">
     <p>Your browser does not support iframes.</p>
 </iframe>
 
-You can download a PDF copy of my CV [here](https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_02132024.pdf).
+You can also download a PDF copy of my CV [here](https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_02132024.pdf).
 
 Education
 ======
