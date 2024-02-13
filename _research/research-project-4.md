@@ -4,7 +4,7 @@ collection: research
 type: "Research"
 permalink: /research/research-project-4
 layout: single
-excerpt: "This study presents a filter-based system designed to mimic human respiratory deposition of secondhand smoke, offering a reliable alternative for research without human subjects. Through the comparison of deposition efficiencies with the ICRP model and analysis of harmful metal concentrations in secondhand smoke, the system proves effective for simulating smoke exposure. It provides a simple, repeatable, and controllable method for studying the health impacts of secondhand smoke."
+excerpt: "This study presents a filter-based system designed to mimic human respiratory deposition of secondhand smoke, offering an alternative for research without human subjects. Through the comparison of deposition efficiencies with the ICRP model and analysis of harmful metal concentrations in secondhand smoke, the system proves effective for simulating smoke exposure. It provides a straightforward, repeatable, and controllable method for studying the health impacts of secondhand smoke."
 ---
 
 ## Goals
