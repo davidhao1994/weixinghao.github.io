@@ -11,9 +11,9 @@ author_profile: true
   {{ publication.reference }}
 {% endfor %}
 
-11\. Li, Y., Peng, Z., Li, J., Wei, C., Liu, S., **Hao, W.**, ... & Wu, C. (2023). Wearable MXene‐Graphene Sensing of Influenza and SARS‐CoV‐2 Virus in Air and Breath: From Lab to Clinic. [*Advanced Materials Technologies*](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202201787) , 2201787. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_11.pdf)
+11\. Li, Y., Peng, Z., Li, J., Wei, C., Liu, S., **Hao, W.**, ... & Wu, C. 2023. Wearable MXene‐Graphene Sensing of Influenza and SARS‐CoV‐2 Virus in Air and Breath: From Lab to Clinic. [*Advanced Materials Technologies*](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202201787) , 2201787. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_11.pdf)
     
-10\. **Hao, W.**, Huang, Y. W., & Wang, Y. (2023). Bioaerosol size as a potential determinant of airborne *E. coli* viability under ultraviolet germicidal irradiation and ozone disinfection. [*Nanotechnology*](https://iopscience.iop.org/article/10.1088/1361-6528/ad14b4/meta) , 35, 145702. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_10.pdf)
+10\. **Hao, W.**, Huang, Y. W., & Wang, Y. 2023. Bioaerosol size as a potential determinant of airborne *E. coli* viability under ultraviolet germicidal irradiation and ozone disinfection. [*Nanotechnology*](https://iopscience.iop.org/article/10.1088/1361-6528/ad14b4/meta) , 35, 145702. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_10.pdf)
     
 9\. **Hao, W.**, F. Mei, S. Hering, S. Spielman, Y. Wang. 2023. Mapping the performance of a versatile water-based condensation particle counter (vWCPC) with numerical simulation and experimental study. [*Atmospheric Measurement Techniques*](https://amt.copernicus.org/articles/16/3973/2023/) , 16, 3973–3986. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_9.pdf)
 
