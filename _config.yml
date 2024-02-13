@@ -11,7 +11,7 @@ title                    : "Weixing Hao / Home"
 title_separator          : "-"
 name                     : Weixing Hao
 description              : "personal description"
-url                      : "https://weixinghao.github.io/"
+url                      : "https://davidhao.github.io/weixinghao.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weixinghao.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
