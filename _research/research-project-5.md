@@ -4,7 +4,7 @@ collection: research
 type: "Research"
 permalink: /research/research-project-5
 layout: single
-excerpt: "This study employs machine learning to predict New Particle Formation (NPF) events, crucial for understanding climate and air quality. Analyzing data from the Southern Great Plains over six years, we identified key atmospheric influencers of NPF, particularly highlighting relative humidity's role. Our approach, combining random forest and neural networks, accurately forecasts NPF events, offering significant advancements in atmospheric research and environmental management strategies."
+excerpt: "This study employs machine learning to predict New Particle Formation (NPF) events, crucial for understanding climate and air quality. Analyzing data from the Southern Great Plains over six years, we identified key atmospheric influencers of NPF. Our approach, combining random forest and neural networks, accurately forecasts NPF events, offering advancements in atmospheric aerosol research."
 ---
 
 ## Goals
