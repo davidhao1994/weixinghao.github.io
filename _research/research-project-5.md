@@ -24,19 +24,5 @@ excerpt: "This study employs machine learning to predict New Particle Formation 
 - Python, Matlab
 
 ## Selected Publications
-In the field of atmospheric research, the phenomenon of New Particle Formation (NPF) has become a key factor influencing climate dynamics and air quality.
-Forecasting NPF events is challenging due to environmental factors and fluctuations in dynamic atmospheric processes.
-In-depth data analysis using advanced machine learning (ML) algorithms reveals the patterns of NPF occurrence.
-Through machine learning, we can explore how different environmental factors affect NPF and contribute to enhancing environmental management strategies.
-Identify NPF event occurrence start time and end time.
-Use ML techniques to identify key atmospheric variables that influence NPF events, including relative humidity (RH), temperature, wind direction, wind speed, total organics, sulfur dioxide, and other gas precursors. 
-Elucidate the relationship between these environmental variables and NPF events by using atmospheric and meteorological data. 
-Utilized a comprehensive dataset collected for six years by the Atmospheric Radiation Measurement (ARM) in the Southern Great Plains (SGP) of Oklahoma, USA, and analyzed it with a focus on different seasons and years.
-Identified the NPF occurrence using data collected from surface measurements and developed a random forest algorithm to determine the influence and relevance of atmospheric variables on the occurrence of NPF events. 
-This random forest approach yielded predictions of these events with an accuracy ranging from 95 to 100%. Our results indicate that RH is the main factor that influences the occurrence of NPF. 
-There are higher and similar frequencies of NPF occurrence in spring, fall, and winter seasons at the SGP, while the NPF frequency is lower in the summer. 
-These insights greatly advance the predictive modeling of NPF events and highlight the effectiveness of machine learning in environmental science. The ability to accurately predict NPF events based on environmental variables has significant implications for atmospheric research.
-Revise the classification of NPF events, frequency, and evolution. Seasonal and daily trends, pre- and post-COVID. Random forest and other supervised prediction methods.
-Use algorithms like Long Short-Term Memory (LSTM) neural networks to predict the time series of particle concentrations, inferring NPF events.
-Explore the relationship between NPF and Cloud Condensation Nuclei (CCN), focusing on how NPF contributes to the formation of CCN.
+- In preparation
 
