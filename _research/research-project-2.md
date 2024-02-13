@@ -3,6 +3,7 @@ title: "Model simulation of laminar flow Condensation Particle Counters (CPC)"
 collection: research
 type: "Research"
 permalink: /research/research-project-2
+layout: single
 ---
 
 ## **Model simulation of laminar flow Condensation Particle Counters (CPC)**
