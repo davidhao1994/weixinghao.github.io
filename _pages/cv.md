@@ -64,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currentl
+* Curren
