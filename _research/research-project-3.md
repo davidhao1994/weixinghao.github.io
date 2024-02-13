@@ -1,39 +1,34 @@
 ---
-title: "Understanding the evolution and transport of indoor bioaerosols"
+title: "Indoor Bioaerosol Decay and Control"
 collection: research
 type: "Research"
 permalink: /research/research-project-3
 layout: single
-excerpt: "weixing"
+excerpt: "This study investigates the viability and control of bioaerosols in indoor environments, with a focus on understanding how factors such as ultraviolet germicidal irradiation, ozone, temperature, and humidity influence the decay of airborne pathogens. Utilizing advanced techniques like the Sioutas Cascade Impactor and qPCR. Our findings reveal a size-dependent efficacy of UV irradiation on reducing *E. coli* viability, particularly in smaller bioaerosols. This research provides critical insights into optimizing indoor air quality controls to mitigate the transmission of respiratory pathogens."
 ---
 
 ## Goals
-- Investigate the filtration performance of common materials for potential use as
-filters in 3D-printed respirators and DIY facemasks during the COVID-19 pandemic.
-- Determine the factors influencing the filtration performance of homemade face
-masks.
+- Analyze the decay dynamics of microorganisms in bioaerosols based on time, size, and environmental conditions.
+- Investigate the influence of indoor environmental factors and intervention strategies on bioaerosol behavior.
+- Develop a computational fluid dynamics model to optimize indoor air quality controls and reduce infection risks from bioaerosols.
 
 ## Key Findings
-- **N95-Level Efficiency**: Achieved with multiple layers of household air filters, maintaining breathability.
-- **Optimal Material Combinations**: A blend of fibrous and fabric materials is recommended for effective aerosol removal.
-- **Fabric Reusability**: Materials maintained filtration efficiency after washing and drying, supporting sustainable practices.
-- **Triboelectric Charging**: Provided a temporary boost in filtration performance, though its practicality for long-term use is limited.
-
-## Media Attention
-The study's implications for public health during the pandemic attracted attention from leading media outlets, including the New York Times, BBC News, and NPR News.
+- **Size-Dependent UV Efficacy**: Smaller bioaerosols (0.25 – 0.5 μm) were more effectively neutralized by UV irradiation compared to larger ones (0.5 – 2.5 μm).
+- **Environmental Impact on Viability**: Highlighted the significant role of environmental factors in the survival and decay of pathogens within bioaerosols.
 
 ## Technologies Utilized
-- Scanning Mobility Particle Sizer
-- Aerodynamic Particle Sizer
-- Condensation Particle Counter
-- Constant Output Atomizer
-- Air Sampling Cassette
-- Scanning Electron Microscope
-- Manometer
-- Digital Microscope
+- Sioutas Cascade Impactor
+- Gelatin filter
+- SKC BioSampler
+- 6 Jet Refillable Collison Nebulizer
+- Bacterial culture methods
+- qPCR molecular science
+- Inductively Coupled Plasma Mass Spectrometry
 
 ## Selected Publications
-
+2\. Li, Y., Peng, Z., Li, J., Wei, C., Liu, S., **Hao, W.**, ... & Wu, C. 2023. Wearable MXene‐Graphene Sensing of Influenza and SARS‐CoV‐2 Virus in Air and Breath: From Lab to Clinic. [*Advanced Materials Technologies*](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202201787) , 2201787. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_11.pdf)
+    
+1\. **Hao, W.**, Huang, Y. W., & Wang, Y. 2023. Bioaerosol size as a potential determinant of airborne *E. coli* viability under ultraviolet germicidal irradiation and ozone disinfection. [*Nanotechnology*](https://iopscience.iop.org/article/10.1088/1361-6528/ad14b4/meta) , 35, 145702. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_10.pdf)
 
 * Understand the viability of bioaerosols based on their sizes in indoor environments, factoring in ultraviolet germicidal irradiation, ozone, time decay, relative humidity, and temperature influences.
 * Develop a simulated respiratory system for producing secondhand smoke and mimicking aerosol deposition akin to the human respiratory system.
@@ -45,24 +40,3 @@ The study's implications for public health during the pandemic attracted attenti
 
 Respiratory pathogens have tremendous public health impact and cause large economic losses. In the US, the annual economic burden of influenza alone is more than $11.2 billion. Among transmission modes of viral and bacterial respiratory diseases, airborne transmission is not well understood. In this mode, microorganisms are contained in droplet nuclei, forming bioaerosols, and thus can be suspended in the air for a longer time, causing higher exposure and infection risks. In the medical field, aerosol transmission is still thought to “reflect a modern understanding of aerosol science,” which requires more fundamental studies. The ongoing pandemic of COVID-19 further highlights the urgent need to understand the transport and evolution of pathogen-containing aerosols, as there is contradictory evidence and conclusions on the potential transmission of SARS-CoV-2 via the airborne mode. In this NSF-funded project, our objectives are to 1) examine the decay of microorganisms in bioaerosols as a function of time, bioaerosol size, and environmental conditions; 2) characterize the evolution and transport of indoor bioaerosols under different ventilation configurations; and 3) establish a computational fluid dynamics (CFD) model coupled with bioaerosol evolution to optimize intervention strategies to reduce the infection risk of indoor bioaerosols.
 
-11\. Li, Y., Peng, Z., Li, J., Wei, C., Liu, S., **Hao, W.**, ... & Wu, C. 2023. Wearable MXene‐Graphene Sensing of Influenza and SARS‐CoV‐2 Virus in Air and Breath: From Lab to Clinic. [*Advanced Materials Technologies*](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202201787) , 2201787. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_11.pdf)
-    
-10\. **Hao, W.**, Huang, Y. W., & Wang, Y. 2023. Bioaerosol size as a potential determinant of airborne *E. coli* viability under ultraviolet germicidal irradiation and ozone disinfection. [*Nanotechnology*](https://iopscience.iop.org/article/10.1088/1361-6528/ad14b4/meta) , 35, 145702. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_10.pdf)
-    
-9\. **Hao, W.**, F. Mei, S. Hering, S. Spielman, Y. Wang. 2023. Mapping the performance of a versatile water-based condensation particle counter (vWCPC) with numerical simulation and experimental study. [*Atmospheric Measurement Techniques*](https://amt.copernicus.org/articles/16/3973/2023/) , 16, 3973–3986. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_9.pdf)
-
-8\. Brooks, J. P., Lupfer, C., Yang, W., **Hao, W.**, & Kapiamba, K. F. 2022. The effect of hypochlorous acid on the filtration performance and bacterial decontamination of N95 filtering facemask respirators. [*American Journal of Infection Control*](https://www.ajicjournal.org/article/S0196-6553(22)00540-5/fulltext) , 1-5. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_8.pdf)
-
-7\. Cheng, S., **Hao, W.**, Wang, Y., Wang, Y., & Yang, S. 2022. Commercial Janus Fabrics as Reusable Facemask Materials: A Balance of Water Repellency, Filtration Efficiency, Breathability, and Reusability. [*ACS Applied Materials & Interfaces*](https://pubs.acs.org/doi/10.1021/acsami.2c09544) , 14(28), 32579-32589. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_7.pdf)
-
-6\. Kapiamba, K., **Hao, W.**, Adom, S., Liu, W., Huang, Y., Wang, Y. 2022. Examining the metal contents in primary and secondhand aerosols released by electronic cigarettes. [*Chemical Research in Toxicology*](https://pubs.acs.org/doi/10.1021/acs.chemrestox.1c00411) , 35, 954-962. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_6.pdf)
-
-5\. **Hao, W.**, Kapiamba, K. F., Abhayaratne, V., Usman, S., Huang, Y. W., & Wang, Y. 2022. A simulated respiratory system for secondhand smoke generation and characterization. [*Inhalation Toxicology*](https://www.tandfonline.com/doi/abs/10.1080/08958378.2022.2075493?journalCode=iiht20) , 1-11. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_5.pdf)
-
-4\. Gonzalez, A., Aboubakr, H. A., Brockgreitens, J., **Hao, W.**, Wang, Y., Goyal, S. M., & Abbas, A. 2021. Durable nanocomposite face masks with high particulate filtration and rapid inactivation of coronaviruses. [*Scientific reports*](https://www.nature.com/articles/s41598-021-03771-1) , 11(1), 1-11. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_4.pdf)
-
-3\. **Hao, W.**, Stolzenburg, M., Attoui, M., Zhang, J., & Wang, Y. 2021. Optimizing the activation efficiency of sub-3 nm particles in a laminar flow condensation particle counter: Model simulation. [*Journal of Aerosol Science*](https://www.sciencedirect.com/science/article/pii/S0021850221005723) , 158, 105841. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_3.pdf)
-
-2\. **Hao, W.**, G. Xu, Y. Wang. 2021. Factors influencing the filtration performance of homemade face masks. [*Journal of Occupational and Environmental Hygiene*](https://www.tandfonline.com/doi/full/10.1080/15459624.2020.1868482)  18:128-138. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_2.pdf)
-
-1\. **Hao, W.**, A. Parasch, S. Williams, J. Li, H. Ma, J. Burken, Y. Wang. 2020. Filtration performances of non-medical materials as candidates for manufacturing facemasks and respirators. [*International Journal of Hygiene and Environmental Health*](https://www.sciencedirect.com/science/article/pii/S1438463920305289?dgcid=author) 229:113582. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_1.pdf)
