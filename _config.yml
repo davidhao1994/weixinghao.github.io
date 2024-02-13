@@ -247,14 +247,14 @@ defaults:
       author_profile: false
       share: false
   # _research
-    - scope:
-        path: ""
-        type: research
-      values:
-        layout: research
-        author_profile: true
-        share: true
-        
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: research
+      author_profile: True
+      share: false
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
