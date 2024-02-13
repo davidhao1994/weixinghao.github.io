@@ -11,7 +11,8 @@ author_profile: true
 
 - *2023.10.13* I gave a seminar for our department.
   ![Weixing Hao's Avatar](images/weixing_photo_3.jpg "Weixing Hao")
-
+  
+  ![Example Image](/images/weixing_photo_3.jpg "This is an example image")
 
 - *2023.10.13* I will have a three-month visit to the Pacific Northwest National Laboratory (PNNL) to work on analyzing atmospheric aerosol data and optimizing the working conditions of condensation particle counters. 
 
