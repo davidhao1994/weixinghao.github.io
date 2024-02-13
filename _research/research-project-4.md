@@ -13,26 +13,26 @@ excerpt: "<div>
 </div>"
 ---
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-1.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-1.jpg" alt="Example Image" width="600" />
 </div>
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-2.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-2.jpg" alt="Example Image" width="600" />
 </div>
 
 ## Goals
 - Develop a system to simulate secondhand smoke generation and characterization, mimicking human respiratory particle deposition.
 - Validate the system's efficacy in replicating the deposition efficiencies of the human respiratory system for secondhand smoke studies.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-goal.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-goal.jpg" alt="Example Image" width="600" />
 </div>
 
 ## Key Findings
 - **Respiratory System Mimicry**: Achieved deposition efficiencies within 10% of the International Commission on Radiological Protection (ICRP) model for particles sized 30 to 500 nm.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-agree.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-agree.jpg" alt="Example Image" width="600" />
 </div>
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-compare.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-compare.jpg" alt="Example Image" width="600" />
 </div>
 
 - **Health Risk Indicators**: Detected high concentrations of harmful metals like Ni and Cr in secondhand smoke, significantly exceeding regulated intake levels, especially from electronic cigarettes.
