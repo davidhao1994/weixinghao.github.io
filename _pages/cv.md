@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<iframe src="https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_02132024.pdf" width="100%" height="500px">
+CV
+======
+<iframe src="https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_02132024.pdf" width="90%" height="600px">
     <p>Your browser does not support iframes.</p>
 </iframe>
 
