@@ -3,6 +3,7 @@ title: "Understanding the evolution and transport of indoor bioaerosols"
 collection: research
 type: "Research"
 permalink: /research/research-project-3
+layout: single
 ---
 
 ## **Understanding the evolution and transport of indoor bioaerosols**
