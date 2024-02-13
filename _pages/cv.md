@@ -10,7 +10,7 @@ author_profile: true
 Education
 ======
 * Ph.D in Chemical, Environmental and Materials Engineering, University of Miami, 2024 (expected)
-* Ph.D in Civil and Environmental Engineering, Missouri University of Science and Technology (transferred to the University of Miami)
+* Ph.D in Civil and Environmental Engineering, Missouri University of Science and Technology (transferred to the University of Miami)，2022
 * M.S. in Metallurgical Engineering, University of Science and Technology Beijing, 2019
 * B.S. in Metallurgical Engineering, North China University of Science and Technology, 2016
 
@@ -26,10 +26,10 @@ Work experience
   * Supervisor: Dr. Yang Wang
 
  * 1/2020 - 5/2022: Graduate Teaching Assistant
-  * Missouri University of Science and Technology
-  * ENV ENG 5662 - Air Pollution Control
-  * ENV ENG 3603 - Chemical Fundamentals of Environmental Engineering
-  * ENV ENG 2601 - Fundamentals of Environmental Engineering and Science
+   * Missouri University of Science and Technology
+   * ENV ENG 5662 - Air Pollution Control
+   * ENV ENG 3603 - Chemical Fundamentals of Environmental Engineering
+   * ENV ENG 2601 - Fundamentals of Environmental Engineering and Science
         
 * 8/2019 - 8/2022: Graduate Research Assistant
   * Missouri University of Science and Technology
@@ -37,10 +37,10 @@ Work experience
           
 Skills
 ======
-  * ENV ENG 5662 - Air Pollution Control
-  * ENV ENG 3603 - Chemical Fundamentals of Environmental Engineering
-  * ENV ENG 2601 - Fundamentals of Environmental Engineering and Science
-  
+  * 1
+  * 2
+  * 3
+    
 Academic Activities
 ======
 - 10/2023	Oral presentation, 2023, [41st Annual American Association for Aerosol Research (AAAR)](https://www.aaar.org/2023/), titled “Mapping the Performance of a Versatile Water-based Condensation Particle Counter (vWCPC) with Numerical Simulation and Experimental Study.”
