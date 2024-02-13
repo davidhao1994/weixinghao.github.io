@@ -3,6 +3,7 @@ title: "Filtration performances of household materials as candidates for facemas
 collection: research
 type: "Research"
 permalink: /research/research-project-1
+layout: single
 ---
 
 ## **Filtration performances of household materials as candidates for facemasks**
