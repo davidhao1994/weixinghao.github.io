@@ -4,6 +4,7 @@ collection: research
 type: "Research"
 permalink: /research/research-project-3
 ---
+
 ## **Understanding the evolution and transport of indoor bioaerosols**
 * Understand the viability of bioaerosols based on their sizes in indoor environments, factoring in ultraviolet germicidal irradiation, ozone, time decay, relative humidity, and temperature influences.
 * Develop a simulated respiratory system for producing secondhand smoke and mimicking aerosol deposition akin to the human respiratory system.
