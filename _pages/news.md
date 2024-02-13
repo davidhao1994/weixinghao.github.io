@@ -14,8 +14,12 @@ author_profile: true
 
   <img src="/images/weixing_photo_3.jpg" alt="Example Image" width="300" /> <!-- Adjust width as needed -->
 
+- *2023.10.13* I will have a three-month visit to the Pacific Northwest National Laboratory (PNNL) to work on analyzing atmospheric aerosol data and optimizing the working conditions of condensation particle counters.
 
-- *2023.10.13* I will have a three-month visit to the Pacific Northwest National Laboratory (PNNL) to work on analyzing atmospheric aerosol data and optimizing the working conditions of condensation particle counters. 
+  <div style="text-align: center;">
+    <img src="/images/weixing_photo_3.jpg" alt="Example Image" width="300" />
+</div>
+
 
 - *2023.09.15* I received the travel grant from AAAR to attend the 41st AAAR Annual Conference! I also contribute to AAAR as a student volunteer and judge at the conference! I gave one platform presentation at the AAAR meeting in Portland! 
 
