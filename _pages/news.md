@@ -20,6 +20,7 @@ author_profile: true
 - *2023.04.07* I attended the Air Pollution Workshop at the University in Florida hosted by Dr. Myoseon Jang. I gave an oral presentation at the workshop.
 
 - *2023.04.07* I gave a talk for the NBCC Student Association.
+    ![Example Image](/images/weixing_photo_3.jpg) 
 
 - *2023.03.22* I attended the research seminar at the University of Miami.
 
