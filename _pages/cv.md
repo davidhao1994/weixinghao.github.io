@@ -46,11 +46,11 @@ Work experience
           
 Skills
 ======
-  * 1 experimental skills:
-      * aerosol experiments
-      * microbiology experiments:
-  * 2 modeling skills: comsol CFD
-  * 3 Machine learning skills:matlab, python
+  * Experimental Skills:
+      * Aerosol experiments: [Scanning Mobility Particle Sizer (SMPS)](https://www.kenelec.com.au/wp-content/uploads/2016/06/TSI_Electrostatic_classifier_model_3082_Scanning_Mobility_Particle_Sizer_Spectrometer_Model_3938.pdf); Aerodynamic Particle Sizer; Alcohol-based Condensation particle Counter; Water-based Condensation particle Counter; Constant Output Atomizer; Air Sampling Cassette; Scanning Electron Microscope; Manometer; Digital Microscope; Sioutas Cascade Impactor; Inductively Coupled Plasma Mass Spectrometry.
+      * Microbiology Experiments:Gelatin filter; SKC BioSampler; 6 Jet Refillable Collison Nebulizer; Bacterial culture methods; qPCR molecular science.
+  * Modeling Skills: COMSOL Multiphysics simulation coupled with MATLAB. CFD.
+  * Machine Learning Skills: Matlab, Python.
     
 Journal Review Activities
 ======
