@@ -6,7 +6,6 @@ permalink: /research/research-project-2
 layout: single
 ---
 
-## **Model simulation of laminar flow Condensation Particle Counters (CPC)**
 •	Examined the performance of alcohol-based and water-based CPCs through numerical simulation.
 •	Understood the effects of varying operating conditions (temperature, flow rate, inlet pressure, geometry) and working fluids on CPC performance.
 •	Employed COMSOL software for comprehensive numerical simulations of CPCs and post-processing of MATLAB.
