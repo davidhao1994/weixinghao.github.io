@@ -18,7 +18,8 @@ You can also download a PDF copy of my CV [here](https://davidhao1994.github.io/
 Education
 ======
 🎓 Ph.D. in Chemical, Environmental and Materials Engineering, University of Miami, 2024 (expected)<br>
-🎓 Ph.D. in Civil and Environmental Engineering, Missouri University of Science and Technology (transferred to the University of Miami), 2022<br>
+🎓 Ph.D. in Civil and Environmental Engineering, Missouri University of Science and Technology (transferred to the
+University of Miami), 2022<br>
 🎓 M.S. in Metallurgical Engineering, University of Science and Technology Beijing, 2019<br>
 🎓 B.S. in Metallurgical Engineering, North China University of Science and Technology, 2016
 
