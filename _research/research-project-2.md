@@ -4,7 +4,12 @@ collection: research
 type: "Research"
 permalink: /research/research-project-2
 layout: single
-excerpt: "This study enhances Condensation Particle Counters (CPCs) for sub-3 nm particle detection, using COMSOL coupled with MATLAB simulations to investigate the effects of operating conditions on its activation and droplet growth. Key strategies include lowering condenser temperature, reducing tube diameter, and optimizing flow rates, particularly under low-pressure scenarios, to improve particle activation and counting efficiency. These findings guide future CPC improvements for precise aerosol monitoring."
+excerpt: "<div>
+    <p>This study enhances Condensation Particle Counters (CPCs) for sub-3 nm particle detection, using COMSOL coupled with MATLAB simulations to investigate the effects of operating conditions on its activation and droplet growth. Key strategies include lowering condenser temperature, reducing tube diameter, and optimizing flow rates, particularly under low-pressure scenarios, to improve particle activation and counting efficiency. These findings guide future CPC improvements for precise aerosol monitoring.</p>
+    <div style='text-align: center;'>
+        <img src='https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2.jpg' alt='Example Image' width='300' />
+    </div>
+</div>"
 ---
 
 ## Goals:
