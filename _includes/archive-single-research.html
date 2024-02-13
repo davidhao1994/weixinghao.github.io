@@ -1,0 +1,26 @@
+<div class="research-item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <!-- Research Project Title -->
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+    </h2>
+
+    <!-- Research Project Excerpt -->
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post.excerpt | markdownify }}
+        <a href="{{ base_path }}{{ post.url }}" class="read-more">Read more...</a>
+      </p>
+    {% endif %}
+
+    <!-- Research Project Date -->
+    {% if post.date %}
+      <p class="archive__item-date">
+        <i class="fa fa-calendar" aria-hidden="true"></i> 
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+      </p>
+    {% endif %}
+    
+  </article>
+</div>
