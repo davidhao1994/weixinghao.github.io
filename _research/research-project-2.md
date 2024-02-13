@@ -4,6 +4,7 @@ collection: research
 type: "Research"
 permalink: /research/research-project-2
 layout: single
+excerpt: "weixing"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
