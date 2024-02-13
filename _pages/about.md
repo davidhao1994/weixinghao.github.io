@@ -24,7 +24,6 @@ My work and research
   * Health-related aerosol mitigation
   * Aerosol instrumentation
   * Aerosol characterization and measurements
-  * ![Editing a markdown file for a talk](/images/bio-photo.jpg)
 
 * My research on the filtration performance of non-medical materials for facemasks and respirators during the COVID-19 pandemic gained media attention, such as [New York Times](https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html), [BBC News](https://www.bbc.com/future/article/20200504-coronavirus-what-is-the-best-kind-of-face-mask), [NPR News](https://www.npr.org/sections/goatsandsoda/2020/04/22/840146830/adding-a-nylon-stocking-layer-could-boost-protection-from-cloth-masks-study-find), [C&EN News](https://cen.acs.org/materials/Scientists-take-closer-look-materials/98/i25), [Daily Herald](https://www.dailyherald.com/news/20200407/what-makes-for-a-good-homemade-face-mask/), [Today](https://www.today.com/style/what-type-fabric-best-face-masks-t179615), [Newsy](https://scrippsnews.com/stories/which-diy-masks-actually-work/), and highlighted on [Missouri S&T's YouTube channel](https://www.youtube.com/watch?v=xhckSGPT9Rg&t=1s). The data was shared publicly on [Google Sheets](http://tinyurl.com/59mpr2h9).
 
@@ -34,7 +33,5 @@ My personal life
 ======
 * Passionate about traveling, exploring maps, and road trips.
 * Enjoys reading, swimming, and fitness activities.
-
-
 
 ## **Welcome aboard!**
