@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+<iframe src="https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_02132024.pdf" width="100%" height="500px">
+    <p>Your browser does not support iframes.</p>
+</iframe>
+
 Education
 ======
 * Ph.D in Chemical, Environmental and Materials Engineering, University of Miami, 2024 (expected)
@@ -14,9 +18,7 @@ Education
 * M.S. in Metallurgical Engineering, University of Science and Technology Beijing, 2019
 * B.S. in Metallurgical Engineering, North China University of Science and Technology, 2016
 
-<iframe src="https://davidhao1994.github.io/weixinghao.github.io/files/paper1.pdf" width="100%" height="500px">
-    <p>Your browser does not support iframes.</p>
-</iframe>
+
 
 
 Work experience
