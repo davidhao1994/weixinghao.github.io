@@ -7,7 +7,7 @@ layout: single
 excerpt: "<div>
     <p>This study employs machine learning to predict New Particle Formation (NPF) events, crucial for understanding climate and air quality. Analyzing data from the Southern Great Plains over six years, we identified key atmospheric influencers of NPF. Our approach, combining random forest and neural networks, accurately forecasts NPF events, offering advancements in atmospheric aerosol research.</p>
     <div style='text-align: center;'>
-        <img src='https://davidhao1994.github.io/weixinghao.github.io/images/research-project-5.jpg' alt='Example Image' width='300' />
+        <img src='https://davidhao1994.github.io/weixinghao.github.io/images/research-project-5.jpg' alt='Example Image' width='500' />
     </div>
 </div>"
 ---
