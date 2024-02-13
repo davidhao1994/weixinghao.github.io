@@ -3,6 +3,7 @@ title: "Filtration performances of household materials as candidates for facemas
 collection: research
 type: "Research"
 permalink: /research/research-project-1
+layout: single
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
