@@ -9,7 +9,7 @@ author_profile: true
 
 - *2024.01.10* I had a successful second Center for Aerosol Science and Technology (CAST) Workshop!
 
-- *2023.10.13* I gave a seminar for our department. ![Weixing Hao's Avatar](../images/weixing_photo_3.jpg "Weixing Hao")
+- *2023.10.13* I gave a seminar for our department.![Weixing Hao's Avatar](/images/weixing_photo_3.jpg "Weixing Hao")
 
 - *2023.10.13* I will have a three-month visit to the Pacific Northwest National Laboratory (PNNL) to work on analyzing atmospheric aerosol data and optimizing the working conditions of condensation particle counters. 
 
