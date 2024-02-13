@@ -12,7 +12,7 @@ author_profile: true
 - *2023.10.13* I gave a seminar for our department.
  ![Editing a markdown file for a talk](/images/editing-talk.png)
   
-  ![Example Image](weixinghao.github.io/images/weixing_photo_3.jpg)
+  ![Example Image](davidhao1994.github.io/weixinghao.github.io/images/weixing_photo_3.jpg)
 
 - *2023.10.13* I will have a three-month visit to the Pacific Northwest National Laboratory (PNNL) to work on analyzing atmospheric aerosol data and optimizing the working conditions of condensation particle counters. 
 
