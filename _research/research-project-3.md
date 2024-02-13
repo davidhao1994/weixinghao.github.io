@@ -25,7 +25,7 @@ permalink: /research/research-project-3
 * Observed that droplet growth reduction becomes pronounced under low-pressure scenarios, potentially impacting counting efficiency.
 * Offered insights beneficial for future adjustments and enhancements in CPCs tailored to sub-3 nm particle detection.
 * Provided guidance for optimizing vWCPC performance, especially for precise particle detection and atmospheric aerosol monitoring.
-* Technologies Utilized: COMSOL Multiphysics simulation coupled with MATLAB.
+* Technologies Utilized: COMSOL Multiphysics simulation coupled with MATLAB.xx
  
 ## **Understanding the evolution and transport of indoor bioaerosols**
 * Understand the viability of bioaerosols based on their sizes in indoor environments, factoring in ultraviolet germicidal irradiation, ozone, time decay, relative humidity, and temperature influences.
