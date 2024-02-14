@@ -23,8 +23,8 @@ excerpt: "<div>
 - **ML Algorithms' Efficacy**: The integration of random forest and Long Short-Term Memory (LSTM) neural networks has significantly advanced the predictive modeling capabilities for NPF events.
 
 ## Technologies Utilized
-- Random Forest Algorithm ]
-- LSTM Neural Networks for predicting time series of particle concentrations, inferring NPF events.
+- Random Forest Algorithm
+- LSTM Neural Networks for predicting time series of particle concentrations, inferring NPF events
 - Comprehensive data analysis from the Atmospheric Radiation Measurement (ARM) program
 - Python, Matlab
 
