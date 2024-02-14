@@ -67,7 +67,10 @@ author_profile: true
 - *2020.12.24* My paper “Factors Influencing the Filtration Performance of Homemade Face Masks,” was published by  J. Occup. Environ. Health.!
   
 - *2020.11.24* Our work was featured at the Missouri S&T News [Over the holidays, replacing the furnace filter could help protect people from COVID-19 indoors](https://news.mst.edu/2020/11/over-the-holidays-replacing-the-furnace-filter-could-help-protect-people-from-covid-19-indoors/).
-  
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-smps-2020.png" alt="Example Image" width="300" />
+</div>
+
 - *2020.10.6* I presented a poster titled “Filtration Performances of Non-medical Materials as Candidates for Homemade Face Mask Filters” during the 2020 AAAR virtual conference.
   
 - *2020.10* [Research](https://research.mst.edu/media/research/research/documents/researchmagazine/reSearch_2020_web.pdf)
