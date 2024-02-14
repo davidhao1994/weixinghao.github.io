@@ -24,5 +24,3 @@ My personal life
 ======
 * Passionate about traveling, exploring maps, and road trips.
 * Enjoys reading, swimming, and fitness activities.
-
-## **Welcome aboard!**
