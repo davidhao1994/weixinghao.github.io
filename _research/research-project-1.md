@@ -30,7 +30,7 @@ masks.
 
 ## Key Findings
 - **N95-Level Efficiency**: Achieved with multiple layers of household air filters, maintaining breathability.
-  <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-result-1.jpg" alt="Example Image" width="600" />
 </div>
 - **Optimal Material Combinations**: A blend of fibrous and fabric materials is recommended for effective aerosol removal.
