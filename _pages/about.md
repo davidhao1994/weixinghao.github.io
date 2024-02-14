@@ -15,8 +15,6 @@ redirect_from:
 My work and research
 ======
 * My research interests cover diverse aspects of **aerosol science and engineering**.
-
-* My current research topic focuses on:
   * Indoor bioaerosol control
   * Occupational air filtration 
   * Health-related aerosol mitigation
