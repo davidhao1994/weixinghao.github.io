@@ -29,6 +29,9 @@ author_profile: true
   
 ## **2022**
 - *2022.10.07* I presented my work on size-dependent bioaerosol-UV interactions at the 40th Annual Conference of the American Association for Aerosol Research (AAAR) in Raleigh, NC.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2022.jpg" alt="Example Image" width="300" />
+</div>
 
 - *2022.05.10* My work, “A filter-based system mimicking the particle deposition and penetration in human respiratory system for secondhand smoke generation and characterization” has been published in Inhalation Toxicology.
   
