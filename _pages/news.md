@@ -110,6 +110,9 @@ author_profile: true
 
 ## **2019**
 - *2019.10.19* I gave a poster presentation at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) at the University of Missouri titled “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter”.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-maeec-2019.png" alt="Example Image" width="300" />
+</div>
 
 - *2019.09.01* I started working on a numerical simulation project for condensation particle counters (CPCs).
   
