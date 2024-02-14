@@ -12,30 +12,33 @@ excerpt: "<div>
 </div>"
 ---
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-1.jpg" alt="Example Image" width="600" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-3-background.jpg" alt="Example Image" width="600" />
 </div>
 
 ## Goals
 - Analyze the decay dynamics of microorganisms in bioaerosols based on time, size, and environmental conditions.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-3-goal.jpg" alt="Example Image" width="600" />
+</div>  
 - Investigate the influence of indoor environmental factors and intervention strategies on bioaerosol behavior.
-  <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-1.jpg" alt="Example Image" width="600" />
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-3-method-1.jpg" alt="Example Image" width="600" />
 </div>
 - Develop a computational fluid dynamics model to optimize indoor air quality controls and reduce infection risks from bioaerosols.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-1.jpg" alt="Example Image" width="600" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-3-method-2.jpg" alt="Example Image" width="600" />
 </div>
 
 ## Key Findings
 - **Size-Dependent UV Efficacy**: Smaller bioaerosols (0.25 – 0.5 μm) were more effectively neutralized by UV irradiation compared to larger ones (0.5 – 2.5 μm).
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-1.jpg" alt="Example Image" width="600" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-3-result-1.jpg" alt="Example Image" width="600" />
 </div>
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-1.jpg" alt="Example Image" width="600" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-3-result-2.jpg" alt="Example Image" width="600" />
 </div>
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4-background-1.jpg" alt="Example Image" width="600" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-3-result-3.jpg" alt="Example Image" width="600" />
 </div>
 - **Environmental Impact on Viability**: Highlighted the significant role of environmental factors in the survival and decay of pathogens within bioaerosols.
 
