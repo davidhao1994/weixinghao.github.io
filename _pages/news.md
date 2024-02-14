@@ -13,6 +13,11 @@ author_profile: true
 ## **2023**
 - *2023.10.13* I gave a seminar talk for our department with the title of xxxx.
   
+- *2022.10.04* I presented my work on vWCPC simulation at the 41st Annual Conference of the American Association for Aerosol Research (AAAR) in Portland, OR.
+ <div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2023.jpg" alt="Example Image" width="300" />
+</div> 
+
 - *2023.10.13* I will have a three-month visit to the Pacific Northwest National Laboratory (PNNL) to work on analyzing atmospheric aerosol data and optimizing the working conditions of condensation particle counters.
 
 - *2023.09.15* I received the travel grant from AAAR to attend the 41st AAAR Annual Conference! I also contribute to AAAR as a student volunteer and judge at the conference! I gave one platform presentation at the AAAR meeting in Portland! 
