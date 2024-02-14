@@ -13,7 +13,7 @@ excerpt: "<div>
 ---
 
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-background.jpg" alt="Example Image" width="700" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-background.jpg" alt="Example Image" width="800" />
 </div>
 
 ## Goals
@@ -25,31 +25,31 @@ masks.
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-goal.jpg" alt="Example Image" width="700" />
 </div>
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-setup.jpg" alt="Example Image" width="700" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-setup.jpg" alt="Example Image" width="800" />
 </div>
 
 ## Key Findings
 - **N95-Level Efficiency**: Achieved with multiple layers of household air filters, maintaining breathability.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-result-1.jpg" alt="Example Image" width="700" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-result-1.jpg" alt="Example Image" width="900" />
 </div>
 - **Optimal Material Combinations**: A blend of fibrous and fabric materials is recommended for effective aerosol removal.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-result-2.jpg" alt="Example Image" width="700" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-result-2.jpg" alt="Example Image" width="900" />
 </div>
 - **Fabric Reusability**: Materials maintained filtration efficiency after washing and drying, supporting sustainable practices.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-wash.jpg" alt="Example Image" width="700" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-wash.jpg" alt="Example Image" width="900" />
 </div>
 - **Triboelectric Charging**: Provided a temporary boost in filtration performance, though its practicality for long-term use is limited.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-charge.jpg" alt="Example Image" width="700" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-charge.jpg" alt="Example Image" width="900" />
 </div>
 
 ## Media Attention
 The study's implications for public health during the pandemic attracted attention from leading media outlets, including the New York Times, BBC News, and NPR News.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-media.jpg" alt="Example Image" width="800" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-media.jpg" alt="Example Image" width="900" />
 </div>
 
 ## Technologies Utilized
