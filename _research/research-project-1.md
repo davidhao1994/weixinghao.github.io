@@ -35,15 +35,15 @@ masks.
 </div>
 - **Optimal Material Combinations**: A blend of fibrous and fabric materials is recommended for effective aerosol removal.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-result-2.jpg" alt="Example Image" width="900" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-result-2.jpg" alt="Example Image" width="1000" />
 </div>
 - **Fabric Reusability**: Materials maintained filtration efficiency after washing and drying, supporting sustainable practices.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-wash.jpg" alt="Example Image" width="900" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-wash.jpg" alt="Example Image" width="1100" />
 </div>
 - **Triboelectric Charging**: Provided a temporary boost in filtration performance, though its practicality for long-term use is limited.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-charge.jpg" alt="Example Image" width="900" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-charge.jpg" alt="Example Image" width="1100" />
 </div>
 
 ## Media Attention
