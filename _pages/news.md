@@ -27,14 +27,16 @@ author_profile: true
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
 </div>
 
+- *2023.09.15* I received the travel grant from AAAR to attend the 41st AAAR Annual Conference! I also contribute to AAAR as a student volunteer and judge at the conference! I gave one platform presentation at the AAAR meeting in Portland!
+  
+- *2023.04.21* I gave a talk at the National Society of Black Engineers (NSBE).
+  
+- *2023.04.06* I attended the Air Pollution Workshop at the University in Florida. I gave an oral presentation at the workshop.
 
-- *2023.09.15* I received the travel grant from AAAR to attend the 41st AAAR Annual Conference! I also contribute to AAAR as a student volunteer and judge at the conference! I gave one platform presentation at the AAAR meeting in Portland! 
-
-- *2023.04.07* I attended the Air Pollution Workshop at the University in Florida. I gave an oral presentation at the workshop.
-
-- *2023.04.07* I gave a talk for the NBCC Student Association.
-
-- *2023.03.22* I attended the research seminar at the University of Miami.
+- *2023.03.21* I attended the Graduate + Postdoctoral Research Symposium at the University of Miami.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-research-2023.jpg" alt="Example Image" width="300" />
+</div>
 
 - *2023.03.01* I attended the research day at the College of Engineering
 
