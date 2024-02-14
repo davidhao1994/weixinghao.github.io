@@ -22,7 +22,7 @@ filters in 3D-printed respirators and DIY facemasks during the COVID-19 pandemic
 - Determine the factors influencing the filtration performance of homemade face
 masks.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-goal-1.jpg" alt="Example Image" width="600" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-goal.jpg" alt="Example Image" width="600" />
 </div>
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-setup.jpg" alt="Example Image" width="600" />
