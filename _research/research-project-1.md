@@ -12,20 +12,45 @@ excerpt: "<div>
 </div>"
 ---
 
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-background.jpg" alt="Example Image" width="600" />
+</div>
+
 ## Goals
 - Investigate the filtration performance of common materials for potential use as
 filters in 3D-printed respirators and DIY facemasks during the COVID-19 pandemic.
 - Determine the factors influencing the filtration performance of homemade face
 masks.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-goal-1.jpg" alt="Example Image" width="600" />
+</div>
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-setup.jpg" alt="Example Image" width="600" />
+</div>
 
 ## Key Findings
 - **N95-Level Efficiency**: Achieved with multiple layers of household air filters, maintaining breathability.
+  <div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-result-1.jpg" alt="Example Image" width="600" />
+</div>
 - **Optimal Material Combinations**: A blend of fibrous and fabric materials is recommended for effective aerosol removal.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-result-2.jpg" alt="Example Image" width="600" />
+</div>
 - **Fabric Reusability**: Materials maintained filtration efficiency after washing and drying, supporting sustainable practices.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-wash.jpg" alt="Example Image" width="600" />
+</div>
 - **Triboelectric Charging**: Provided a temporary boost in filtration performance, though its practicality for long-term use is limited.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-charge.jpg" alt="Example Image" width="600" />
+</div>
 
 ## Media Attention
 The study's implications for public health during the pandemic attracted attention from leading media outlets, including the New York Times, BBC News, and NPR News.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-1-media.jpg" alt="Example Image" width="600" />
+</div>
 
 ## Technologies Utilized
 - Scanning Mobility Particle Sizer
