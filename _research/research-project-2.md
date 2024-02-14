@@ -7,13 +7,13 @@ layout: single
 excerpt: "<div>
     <p>This study enhances Condensation Particle Counters (CPCs) for sub-3 nm particle detection, using COMSOL coupled with MATLAB simulations to investigate the effects of operating conditions on its activation and droplet growth. Key strategies include lowering condenser temperature, reducing tube diameter, and optimizing flow rates, particularly under low-pressure scenarios, to improve particle activation and counting efficiency. These findings guide future CPC improvements for precise aerosol monitoring.</p>
     <div style='text-align: center;'>
-        <img src='https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2.jpg' alt='Example Image' width='300' />
+        <img src='https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2.jpg' alt='Example Image' width='400' />
     </div>
 </div>"
 ---
 
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-background-1.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-background-1.jpg" alt="Example Image" width="700" />
 </div>
 
 ## Goals:
@@ -21,24 +21,24 @@ excerpt: "<div>
 - Understand the effects of varying operating conditions (temperature, flow rate, inlet pressure, geometry) and working fluids on CPC performance.
 
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-method.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-method.jpg" alt="Example Image" width="700" />
 </div>
 
 ## Key Findings:
 - **Enhanced Activation**: Lowering condenser temperature and diameter, along with reduced flow rates, boosts sub-3 nm particle activation.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-1.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-1.jpg" alt="Example Image" width="700" />
 </div>
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-2.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-2.jpg" alt="Example Image" width="700" />
 </div>
 
 - **Pressure Impact**: Droplet growth reduction is notable in low-pressure conditions, affecting counting accuracy.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-3.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-3.jpg" alt="Example Image" width="700" />
 </div>
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-4.jpg" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-4.jpg" alt="Example Image" width="700" />
 </div>
 - **Performance Insights**: Offer strategies for CPC optimization, particularly for precise nanoparticle detection and atmospheric monitoring.
 
