@@ -86,7 +86,7 @@ author_profile: true
   
 - *2020.5* [The bridge](https://care.mst.edu/media/academic/care/documents/bridge/The%20Bridge_Spring%202020.pdf)
   
-- *2020.4.13* Given the COVID-19 situation and the urgent need for medical masks, we will test a wide range of household materials and common commercial fabrics that can be used to manufacture masks. The results were updated daily on [Google sheet](https://www.tinyurl.com/ve28f3l)
+- *2020.4.13* Given the COVID-19 situation and the urgent need for medical masks, we tested a wide range of household materials and common commercial fabrics that can be used to manufacture masks. The results were updated on [Google sheet](https://www.tinyurl.com/ve28f3l)
 
 - *2020.4.10* Our recent efforts on evaluating the filtration efficiencies of non-medical materials as candidates for homemade mask filters were reported by multiple news platforms such as [New York Times](https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html), [BBC News](https://www.bbc.com/future/article/20200504-coronavirus-what-is-the-best-kind-of-face-mask), [NPR News](https://www.npr.org/sections/goatsandsoda/2020/04/22/840146830/adding-a-nylon-stocking-layer-could-boost-protection-from-cloth-masks-study-find), [C&EN News](https://cen.acs.org/materials/Scientists-take-closer-look-materials/98/i25), [Daily Herald](https://www.dailyherald.com/news/20200407/what-makes-for-a-good-homemade-face-mask/), [Today](https://www.today.com/style/what-type-fabric-best-face-masks-t179615), [Newsy](https://scrippsnews.com/stories/which-diy-masks-actually-work/), etc.
 
