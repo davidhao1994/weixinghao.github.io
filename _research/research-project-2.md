@@ -12,13 +12,34 @@ excerpt: "<div>
 </div>"
 ---
 
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-background-1.jpg" alt="Example Image" width="500" />
+</div>
+
 ## Goals:
 - Examine the performance of alcohol-based and water-based CPCs through numerical simulation.
 - Understand the effects of varying operating conditions (temperature, flow rate, inlet pressure, geometry) and working fluids on CPC performance.
 
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-method.jpg" alt="Example Image" width="500" />
+</div>
+
 ## Key Findings:
 - **Enhanced Activation**: Lowering condenser temperature and diameter, along with reduced flow rates, boosts sub-3 nm particle activation.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-1.jpg" alt="Example Image" width="500" />
+</div>
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-2.jpg" alt="Example Image" width="500" />
+</div>
+
 - **Pressure Impact**: Droplet growth reduction is notable in low-pressure conditions, affecting counting accuracy.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-3.jpg" alt="Example Image" width="500" />
+</div>
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2-result-4.jpg" alt="Example Image" width="500" />
+</div>
 - **Performance Insights**: Offer strategies for CPC optimization, particularly for precise nanoparticle detection and atmospheric monitoring.
 
 ## Technologies Utilized
