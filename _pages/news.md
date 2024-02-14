@@ -96,13 +96,8 @@ author_profile: true
 </div>
 
 - *2020.04.01*  Our results was posted in twitter as "Out of curiosity, we tested non-medical materials for filtration. A scarf is NOT helpful for filtering aerosols, which may carry coronavirus. Instead, what about furnace filter/pillowcase?", draw much attention. We were using a face velocity of 23 cm/s because we need to insert this 75 mm diameter filter disc into our 3D printed respirator. We were assuming a inhale flow rate of 60 lpm. Error bars are on their way...
-<div style="display: flex; justify-content: center;">
-    <div>
-        <img src="https://davidhao1994.github.io/weixinghao.github.io/images/twitter-1.jiff" alt="Example Image 1" width="300" />
-    </div>
-    <div>
-        <img src="https://davidhao1994.github.io/weixinghao.github.io/images/twitter-2.jiff)" width="300" />
-    </div>
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/twitter-1.jiff" alt="Example Image" width="300" />
 </div>
 
 - *2020.03.24* I worked with Missouri S&T 3D-printed respirator team to evaluate the filtration efficiencies of various materials as filters candidates. 
