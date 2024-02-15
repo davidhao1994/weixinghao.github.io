@@ -190,7 +190,10 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-
+  gallery:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
   # _posts
@@ -254,7 +257,16 @@ defaults:
       layout: research
       author_profile: True
       share: false
-      
+  
+  # _gallery
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: gallery
+      author_profile: True
+      share: false      
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
