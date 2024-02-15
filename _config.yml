@@ -257,7 +257,6 @@ defaults:
       layout: research
       author_profile: True
       share: false
-  
   # _gallery
   - scope:
       path: ""
@@ -265,8 +264,8 @@ defaults:
     values:
       layout: gallery
       author_profile: True
-      share: false      
-
+      share: false
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
