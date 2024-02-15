@@ -13,7 +13,7 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Gallery</title>
+    <title>Direct Gallery</title>
     <style>
         body {
             margin: 0;
@@ -41,26 +41,14 @@ author_profile: true
 <body>
 
 <div class="gallery">
-    <!-- Images will be inserted here by JavaScript -->
+    <!-- Directly embedding images -->
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/image1.jpg" alt="Image 1">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/image2.jpg" alt="Image 2">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/image3.jpg" alt="Image 3">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/image4.jpg" alt="Image 4">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/image5.jpg" alt="Image 5">
+    <!-- Add more images as needed -->
 </div>
-
-<script>
-    const imageNames = [
-        'image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg', 'image5.jpg'
-        // Add your image filenames here
-    ];
-
-    const basePath = 'https://davidhao1994.github.io/weixinghao.github.io/images/gallery/';
-
-    imageNames.forEach(name => {
-        const imgElement = document.createElement('img');
-        imgElement.src = basePath + name;
-        imgElement.alt = name;
-        document.querySelector('.gallery').appendChild(imgElement);
-    });
-</script>
 
 </body>
 </html>
-
-
