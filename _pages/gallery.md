@@ -7,6 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-- *2024.01.10* i had a successful Center for Aerosol Science and Technology (CAST) Workshop! This is the second time we are hosting this annual workshop at the University of Miami. Around ninety participants joined us in person and virtually. 
+<div align="center">
+<table><tr>
+{% for i in (1..46) %}
+  {% capture image_name %}image{{i}}.jpg{% endcapture %}
+  <td style="padding:10px">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/{{ image_name }}" alt="Image {{i}}" style="width:150px;"/>
+  </td>
+  {% if i | modulo: 3 == 0 %}
+    </tr><tr>
+  {% endif %}
+{% endfor %}
+</tr></table>
+</div>
 
-- *2023.10
