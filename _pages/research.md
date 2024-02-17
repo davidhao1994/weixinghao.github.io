@@ -18,8 +18,6 @@ author_profile: true  # If you're using a theme that supports author profiles an
          <img src='https://davidhao1994.github.io/weixinghao.github.io/images/research-project-2.jpg' alt='Example Image' width='400' />
          <img src='https://davidhao1994.github.io/weixinghao.github.io/images/research-project-3.jpg' alt='Example Image' width='500' />
           <img src='https://davidhao1994.github.io/weixinghao.github.io/images/research-project-4.jpg' alt='Example Image' width='500' />
-    </div>
-    </div>
       </a>
     </div>
   </div>
