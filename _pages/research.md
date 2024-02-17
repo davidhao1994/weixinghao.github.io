@@ -13,8 +13,9 @@ author_profile: true  # If you're using a theme that supports author profiles an
       <img src="https://davidhao1994.github.io/weixinghao.github.io/images/{{ post.slug }}.jpg" alt="{{ post.title }}" width="200" />
       <h2>{{ post.title }}</h2>
     </a>
-    <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+    <p>{{ post.excerpt | strip_html }}</p>
   </div>
 {% endfor %}
+
 
 
