@@ -31,7 +31,9 @@ author_profile: true
         box-sizing: border-box;
         position: relative; /* Ensures z-index is respected */
         animation: fadeIn 1s ease-in; /* Simple fade-in animation on page load */
+        perspective: 1000px;
     }
+
         .gallery div {
             width: 230px; /* Fixed width for each grid item */
             height: 230px; /* Fixed height for each grid item */
@@ -39,27 +41,24 @@ author_profile: true
             border-radius: 5px;
             box-shadow: 0 5px 15px rgba(0,0,0,0.3);
             position: relative; /* Establishes a positioning context for absolutely positioned elements */
-            transition: transform 5s ease, box-shadow 0.3s ease; /* Smooth transition for scaling and shadow */
+            transition: transform 0.5s ease, box-shadow 0.5s ease; /* Adjusted for smoother transition */
+            /* Slightly scale up all images to start */
+            transform: scale(1.05);
         }
+        
         .gallery img {
             width: 100%;
             height: 100%; /* Make image fill the container */
             object-fit: cover; /* Cover the area without distorting the ratio */
             object-position: center; /* Center the image within the element */
         }
-         .gallery div:hover {
-        transform: scale(1.3); /* Adjust scale value as needed */
-        z-index: 10; /* Ensure the enlarged image is above others */
-        transition: transform 5s ease; /* Smooth transition for the magnification effect */
-    }
-<!--
+
         .gallery div:hover {
-            transform: scale(1.6); /* Scale the entire div container */
-            box-shadow: 0 8px 25px rgba(0,0,0,0.5); /* Apply shadow to the container */
-            cursor: pointer; /* Change cursor to pointer to indicate interactivity */
-            z-index: 10; /* Ensure scaled item is above others */
+            /* More pronounced scale on hover */
+            transform: scale(1.3);
+            z-index: 10; /* Ensure the enlarged image is above others */
         }
--->
+
         /* Optional: CSS for a simple fade-in animation on page load */
         @keyframes fadeIn {
             from { opacity: 0; }
