@@ -14,7 +14,7 @@ author_profile: true  # If you're using a theme that supports author profiles an
     <p>{{ post.excerpt | strip_html }}</p>
     <div style="text-align: center;">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <img src="https://davidhao1994.github.io/weixinghao.github.io/images/{{ post.slug }}.jpg" alt="{{ post.title }}" style="max-width: 100%; height: auto;">
+        <img src="https://davidhao1994.github.io/weixinghao.github.io/images/{{ post.slug }}.jpg" alt="{{ post.title }}" style="width: 300px; height: auto;">
       </a>
     </div>
   </div>
