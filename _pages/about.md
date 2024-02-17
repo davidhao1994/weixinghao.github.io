@@ -23,4 +23,4 @@ My work and research
 My personal life
 ======
 * Passionate about traveling, exploring maps, and road trips.
-* Enjoys reading, swimming, and fitness activities.
+* Enjoy reading, swimming, and fitness activities.
