@@ -15,7 +15,7 @@ author_profile: true
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Direct Gallery</title>
-    <style>
+       <style>
         body {
             margin: 0;
             padding: 0;
@@ -29,12 +29,14 @@ author_profile: true
             grid-gap: 15px;
             padding: 20px;
             box-sizing: border-box;
+            position: relative; /* Added to ensure z-index is respected */
         }
         .gallery div {
             height: 300px; /* Fixed height for each grid item */
             overflow: hidden; /* Hide parts of the image that overflow the container */
             border-radius: 5px;
             box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            position: relative; /* Establishes a positioning context for absolutely positioned images */
         }
         .gallery img {
             width: 100%;
@@ -43,10 +45,15 @@ author_profile: true
             object-position: center; /* Center the image within the element */
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
-        .gallery div img:hover {
+        .gallery div:hover img {
             transform: scale(1.4);
             box-shadow: 0 8px 25px rgba(0,0,0,0.5);
             cursor: pointer;
+            position: absolute; /* Take the image out of the document flow */
+            top: 50%; /* Center the image vertically */
+            left: 50%; /* Center the image horizontally */
+            transform: translate(-50%, -50%) scale(1.4); /* Adjust for the centering and scaling */
+            z-index: 2; /* Ensure the image is above other elements */
         }
         /* Optional: CSS for a simple fade-in animation on page load */
         @keyframes fadeIn {
