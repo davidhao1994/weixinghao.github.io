@@ -8,4 +8,62 @@ author_profile: true
 {% include base_path %}
 
 
-mnk,nlkknlkm
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direct Gallery</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            padding: 20px;
+        }
+        .gallery img {
+            cursor: pointer;
+            width: 100%;
+            border-radius: 5px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            transition: transform 0.2s ease;
+        }
+        @media (min-width: 600px) {
+            .gallery img {
+                max-width: calc(50% - 10px);
+            }
+        }
+        @media (min-width: 900px) {
+            .gallery img {
+                max-width: calc(33.333% - 10px);
+            }
+        }
+        @media (min-width: 1200px) {
+            .gallery img {
+                max-width: calc(25% - 10px);
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="gallery">
+    <!-- Directly embedding images with responsive settings -->
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/image1.jpg" alt="Image 1">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/image2.jpg" alt="Image 2">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/image3.jpg" alt="Image 3">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/image4.jpg" alt="Image 4">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/gallery/image5.jpg" alt="Image 5">
+    <!-- Add more images as needed -->
+</div>
+
+</body>
+</html>
+
