@@ -31,7 +31,7 @@ author_profile: true
             box-sizing: border-box;
         }
         .gallery div {
-            height: 180px; /* Fixed height for each grid item */
+            height: 300px; /* Fixed height for each grid item */
             overflow: hidden; /* Hide parts of the image that overflow the container */
             border-radius: 5px;
             box-shadow: 0 5px 15px rgba(0,0,0,0.3);
@@ -46,6 +46,7 @@ author_profile: true
         .gallery div:hover img {
             transform: scale(1.4);
             box-shadow: 0 8px 25px rgba(0,0,0,0.5);
+            cursor: pointer;
         }
         /* Optional: CSS for a simple fade-in animation on page load */
         @keyframes fadeIn {
