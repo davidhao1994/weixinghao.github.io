@@ -4,6 +4,8 @@ collection: research
 type: "Research"
 permalink: /research/research-project-2
 layout: single
+slug: "research-project-2"
+image_width: "400px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This study enhances Condensation Particle Counters (CPCs) for sub-3 nm particle detection, using COMSOL coupled with MATLAB simulations to investigate the effects of operating conditions on its activation and droplet growth. Key strategies include lowering condenser temperature, reducing tube diameter, and optimizing flow rates, particularly under low-pressure scenarios, to improve particle activation and counting efficiency. These findings guide future CPC improvements for precise aerosol monitoring.</p>
     <div style='text-align: center;'>
