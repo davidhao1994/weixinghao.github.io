@@ -24,14 +24,14 @@ author_profile: true
             line-height: 1.6;
         }
         .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-            grid-gap: 15px;
-            padding: 20px;
-            box-sizing: border-box;
-            position: relative; /* Ensures z-index is respected */
-            animation: fadeIn 1s ease-in; /* Simple fade-in animation on page load */
-        }
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* 3 columns, each taking up one fraction of the available space */
+        grid-gap: 15px;
+        padding: 20px;
+        box-sizing: border-box;
+        position: relative; /* Ensures z-index is respected */
+        animation: fadeIn 1s ease-in; /* Simple fade-in animation on page load */
+    }
         .gallery div {
             width: 200px; /* Fixed width for each grid item */
             height: 200px; /* Fixed height for each grid item */
