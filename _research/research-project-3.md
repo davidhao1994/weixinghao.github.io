@@ -4,6 +4,8 @@ collection: research
 type: "Research"
 permalink: /research/research-project-3
 layout: single
+slug: "research-project-3"
+image_width: "500px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This study investigates the viability and control of bioaerosols in indoor environments, with a focus on understanding how factors such as ultraviolet germicidal irradiation(UVGI), ozone, temperature, and humidity influence the decay of airborne pathogens. Our findings reveal a size-dependent efficacy of UVGI in reducing *E. coli* viability, particularly in smaller bioaerosols. This research provides critical insights into optimizing indoor air quality controls to mitigate the transmission of respiratory pathogens.</p>
     <div style='text-align: center;'>
