@@ -4,7 +4,8 @@ collection: research
 type: "Research"
 permalink: /research/research-project-4
 layout: single
-excerpt: ""
+slug: "research-project-4"
+image_width: "500px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This study presents a filter-based system designed to mimic human respiratory deposition of secondhand smoke, offering an alternative for research without human subjects. Through the comparison of deposition efficiencies with the ICRP model and analysis of harmful metal concentrations in secondhand smoke, the system proves effective for simulating smoke exposure. It provides a straightforward, repeatable, and controllable method for studying the health impacts of secondhand smoke.</p>
     <div style='text-align: center;'>
