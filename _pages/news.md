@@ -66,38 +66,44 @@ author_profile: true
 ## **2020 Highlights** 
 - *2020.12.31* CIVIL, ARCHITECTURAL AND ENVIRONMENTAL ENGINEERING Missouri University of Science and Technology [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports)
 
-- *2020.12.24* My paper “Factors Influencing the Filtration Performance of Homemade Face Masks,” was published by  J. Occup. Environ. Health.!
+- *2020.12.24* Celebrated the publication of my paper, "Factors Influencing the Filtration Performance of Homemade Face Masks," in *J. Occup. Environ. Health*. This milestone marks a significant contribution to public health knowledge during the pandemic. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_2.pdf)
   
-- *2020.11.24* Our work was featured at the Missouri S&T News [Over the holidays, replacing the furnace filter could help protect people from COVID-19 indoors](https://news.mst.edu/2020/11/over-the-holidays-replacing-the-furnace-filter-could-help-protect-people-from-covid-19-indoors/).
+- *2020.11.24* Our insights on the importance of furnace filters for indoor COVID-19 protection during the holidays were featured on Missouri S&T News, emphasizing practical steps to enhance safety. [Over the holidays, replacing the furnace filter could help protect people from COVID-19 indoors](https://news.mst.edu/2020/11/over-the-holidays-replacing-the-furnace-filter-could-help-protect-people-from-covid-19-indoors/).
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-smps-2020.png" alt="Example Image" width="300" />
 </div>
 
-- *2020.10.6* I presented a poster titled “Filtration Performances of Non-medical Materials as Candidates for Homemade Face Mask Filters” during the 2020 AAAR virtual conference.
+- *2020.10.6* Presented a poster on "Filtration Performances of Non-medical Materials as Candidates for Homemade Face Mask Filters" at the 2020 AAAR virtual conference, sharing our findings with the aerosol research community.
+
+- *2020.10* Featured in Missouri S&T's Research Magazine, our work continues to gain recognition for its impact on developing effective homemade PPE solutions. [Research](https://research.mst.edu/media/research/research/documents/researchmagazine/reSearch_2020_web.pdf)
+    
+- *2020.8.24* Mentored undergraduate researchers Brandon Christian and Clayton Resz, guiding them in their projects on evaluating the performance of air filters and face shields in blocking airborne particles, fostering the next generation of environmental engineers.
   
-- *2020.10* [Research](https://research.mst.edu/media/research/research/documents/researchmagazine/reSearch_2020_web.pdf)
+- *2020.8.17* Our recommendations for combining filters for homemade masks and PPE were highlighted by Missouri S&T News, offering valuable guidance for enhancing the effectiveness. [Missouri S&T researchers recommend combination of filters for homemade masks, other PPE](https://news.mst.edu/2020/08/missouri-st-researchers-recommend-combination-of-filters-for-homemade-masks-other-ppe/)
+
+
+
+
+
+
+
+
   
-- *2020.8.24* I worked and advised undergraduate students Brandon and Clayton also join us as undergraduate researchers. They worked on evaluating the performance of air filters and face shields in blocking airborne particles.
+- *2020.8.4* Our face mask material study was highlighted by Missouri S&T News. This recognition underscores the practical implications of our research in enhancing public health safety measures. [Environmental engineers study face-mask materials](https://magazine.mst.edu/2020/08/environmental-engineers-study-face-mask-materials/)
+    
+- *2020.7.21* I'm proud to announce the publication of my paper on the filtration performance of common household materials in the *International Journal of Hygiene and Environmental Health*. This work contributes to the global effort in identifying effective materials for protective face coverings. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_1.pdf)
   
-- *2020.8.17* [Missouri S&T researchers recommend combination of filters for homemade masks, other PPE](https://news.mst.edu/2020/08/missouri-st-researchers-recommend-combination-of-filters-for-homemade-masks-other-ppe/)
+- *2020.7* Our findings were featured in the Summer 2020 edition of the Missouri S&T Magazine, bringing our research to a broad audience of alumni and scholars. [Missouri S&T Magazine Summer 2020](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1063&context=alumni-magazine)
   
-- *2020.8.4* My work was featured at the Missouri S&T News [Environmental engineers study face-mask materials](https://magazine.mst.edu/2020/08/environmental-engineers-study-face-mask-materials/).
-  
-- *2020.7.21* My paper evaluating the filtration performance of common household materials is published in the International Journal of Hygiene and Environmental Health.
-  
-- *2020.7.21* [Missouri S&T Magazine Summer 2020](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1063&context=alumni-magazine)
-  
-- *2020.5* Missouri S&T [Newletter](https://massemail.mst.edu/w/lJ3oD6pjEyXqU6Q16vSTzg) in May.
-  
-- *2020.5* [The bridge](https://care.mst.edu/media/academic/care/documents/bridge/The%20Bridge_Spring%202020.pdf)
-  
-- *2020.4.13* Given the COVID-19 situation and the urgent need for medical masks, we tested a wide range of household materials and common commercial fabrics that can be used to manufacture masks. The results were updated on [Google sheet](https://www.tinyurl.com/ve28f3l)
+- *2020.5* The Shillelagh Newsletter and The Bridge Newsletter both showcased our work, highlighting its significance to alumni and the Civil, Architectural, and Environmental Engineering Department at Missouri S&T. This dual feature emphasizes the community and academic impact of our research. [Shillelagh Newletter](https://massemail.mst.edu/w/lJ3oD6pjEyXqU6Q16vSTzg)| [The Bridge Spring 2020](https://care.mst.edu/media/academic/care/documents/bridge/The%20Bridge_Spring%202020.pdf)
+
+- *2020.4.13* In response to the critical demand for medical masks during the COVID-19 pandemic, we evaluated numerous household and commercial fabrics for mask manufacturing. Our comprehensive findings are continuously updated and accessible to the public.[View Results](https://www.tinyurl.com/ve28f3l)
 
 - *2020.4.11* Our research on the filtration efficiencies of non-medical materials for homemade mask filters gained widespread recognition, featuring in prominent outlets including the [New York Times](https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html), [BBC News](https://www.bbc.com/future/article/20200504-coronavirus-what-is-the-best-kind-of-face-mask), [NPR News](https://www.npr.org/sections/goatsandsoda/2020/04/22/840146830/adding-a-nylon-stocking-layer-could-boost-protection-from-cloth-masks-study-find), [C&EN News](https://cen.acs.org/materials/Scientists-take-closer-look-materials/98/i25), [Daily Herald](https://www.dailyherald.com/news/20200407/what-makes-for-a-good-homemade-face-mask/), [Today](https://www.today.com/style/what-type-fabric-best-face-masks-t179615), [Newsy](https://scrippsnews.com/stories/which-diy-masks-actually-work/), etc.
 
 - *2020.4.10* Missouri S&T highlighted our contributions in the official YouTube video, showcasing potential breakthroughs in face mask design and evaluations. Watch Here: [The ultimate coronavirus face mask? Missouri S&T professor may have the answer](https://www.youtube.com/watch?v=xhckSGPT9Rg&t=1s).
   
-- *2020.4.5* Missouri S&T News covered our exploration of household materials for DIY face coverings against COVID-19, emphasizing the support this research provides to the DIY mask community and medical professionals. Read More:[Environmental engineers study fabrics, materials for face covers](https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/)
+- *2020.4.5* Missouri S&T News covered our exploration of household materials for DIY face coverings against COVID-19, emphasizing the support this research provides to the DIY mask community and medical professionals. Read More: [Environmental engineers study fabrics, materials for face covers](https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/)
 
 - *2020.4.2* Following CDC guidelines, I experimented with a bandana enhanced by eight layers of furnace filters for improved filtration efficiency, achieving effective filtration without compromising breathability or comfort.
 <div style="text-align: center;">
