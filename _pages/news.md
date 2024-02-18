@@ -23,7 +23,7 @@ author_profile: true
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-pnnl-2023.jpg" alt="Example Image" width="300" />
 </div>
 
-- **2022.10.04** Presented at the 41st Annual Conference of the American Association for Aerosol Research (AAAR) in Portland, OR, on the simulation of water-based Condensation Particle Counters (vWCPC), contributing to advancements in aerosol measurement technologies.
+- **2022.10.04** Presented at the 41st Annual Conference of the American Association for Aerosol Research (AAAR) in Portland, OR, on the simulation of water-based Condensation Particle Counters (vWCPC), contributing to advancements in aerosol measurement technologies. he event was an incredible opportunity to share my research findings and network with fellow scholars and professionals in the field.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
@@ -55,7 +55,9 @@ author_profile: true
 - **2022.08.07** Transitioned my Ph.D. program from Missouri University of Science and Technology to join the Department of Chemical, Environmental, and Materials Engineering at the University of Miami. 
 
 - **2022.05.10** My work, “A filter-based system mimicking the particle deposition and penetration in human respiratory system for secondhand smoke generation and characterization” has been published in *Inhalation Toxicology*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_5.pdf).
-  
+
+- **2022.01.20** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
+-   
 ## **2021 Highlights**
 - **2021.10.21** Delivered two engaging presentations at the 2021 AAAR Conference, showcasing our latest research findings.
 <div style="text-align: center;">
@@ -69,6 +71,8 @@ author_profile: true
 
 - **2021.07.08** My paper on simulating laminar flow in Condensation Particle Counters (CPCs) was published in the *Journal of Aerosol Science*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_3.pdf)
 
+- **2021.01.20** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
+  
 ## **2020 Highlights** 
 - **2020.12.31** Our research achievements were highlighted in the 2020 Scholarly Productivity Report by the Department of Civil, Architectural, and Environmental Engineering at Missouri University of Science and Technology, showcasing our contributions to the field over the past year. This acknowledgment reflects the dedication to advancing environmental engineering research. [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports)
 
@@ -93,15 +97,15 @@ author_profile: true
   
 - **2020.07** Our findings were featured in the Summer 2020 edition of the Missouri S&T Magazine, bringing our research to a broad audience of alumni and scholars. [Missouri S&T Magazine Summer 2020](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1063&context=alumni-magazine).
   
-- **2020.05** The Shillelagh Newsletter and The Bridge Newsletter both showcased our work, highlighting its significance to alumni and the Civil, Architectural, and Environmental Engineering Department at Missouri S&T. This dual feature emphasizes the community and academic impact of our research. [Shillelagh Newletter](https://massemail.mst.edu/w/lJ3oD6pjEyXqU6Q16vSTzg); [The Bridge Spring 2020](https://care.mst.edu/media/academic/care/documents/bridge/The%20Bridge_Spring%202020.pdf)
+- **2020.05** The Shillelagh Newsletter and The Bridge Newsletter both showcased our work, highlighting its significance to alumni and the Civil, Architectural, and Environmental Engineering Department at Missouri S&T. This dual feature emphasizes the community and academic impact of our research. [Shillelagh Newletter](https://massemail.mst.edu/w/lJ3oD6pjEyXqU6Q16vSTzg); [The Bridge Spring 2020](https://care.mst.edu/media/academic/care/documents/bridge/The%20Bridge_Spring%202020.pdf).
 
-- **2020.04.13** In response to the critical demand for medical masks during the COVID-19 pandemic, we evaluated numerous household and commercial fabrics for mask manufacturing. Our comprehensive findings are continuously updated and accessible to the public. [View Results](https://www.tinyurl.com/ve28f3l)
+- **2020.04.13** In response to the critical demand for medical masks during the COVID-19 pandemic, we evaluated numerous household and commercial fabrics for mask manufacturing. Our comprehensive findings are continuously updated and accessible to the public. [View Results](https://www.tinyurl.com/ve28f3l).
 
-- **2020.04.11** Our research on the filtration efficiencies of non-medical materials for homemade mask filters gained widespread recognition, featuring in prominent outlets including the [New York Times](https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html), [BBC News](https://www.bbc.com/future/article/20200504-coronavirus-what-is-the-best-kind-of-face-mask), [NPR News](https://www.npr.org/sections/goatsandsoda/2020/04/22/840146830/adding-a-nylon-stocking-layer-could-boost-protection-from-cloth-masks-study-find), [C&EN News](https://cen.acs.org/materials/Scientists-take-closer-look-materials/98/i25), [Daily Herald](https://www.dailyherald.com/news/20200407/what-makes-for-a-good-homemade-face-mask/), [Today](https://www.today.com/style/what-type-fabric-best-face-masks-t179615), [Newsy](https://scrippsnews.com/stories/which-diy-masks-actually-work/), etc.
+- **2020.04.11** Our research on the filtration efficiencies of non-medical materials for homemade mask filters gained widespread recognition, featuring in prominent outlets including the [New York Times](https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html), [BBC News](https://www.bbc.com/future/article/20200504-coronavirus-what-is-the-best-kind-of-face-mask), [NPR News](https://www.npr.org/sections/goatsandsoda/2020/04/22/840146830/adding-a-nylon-stocking-layer-could-boost-protection-from-cloth-masks-study-find), [C&EN News](https://cen.acs.org/materials/Scientists-take-closer-look-materials/98/i25), [Daily Herald](https://www.dailyherald.com/news/20200407/what-makes-for-a-good-homemade-face-mask/), [Today](https://www.today.com/style/what-type-fabric-best-face-masks-t179615), [Newsy](https://scrippsnews.com/stories/which-diy-masks-actually-work/).
 
-- **2020.04.10** Missouri S&T highlighted our contributions in the official YouTube video, showcasing potential breakthroughs in face mask design and evaluations. Watch Here: [The ultimate coronavirus face mask? Missouri S&T professor may have the answer](https://www.youtube.com/watch?v=xhckSGPT9Rg&t=1s).
+- **2020.04.10** Missouri S&T highlighted our contributions in the official YouTube video, showcasing potential breakthroughs in face mask design and evaluations. **Watch Here:** [The ultimate coronavirus face mask? Missouri S&T professor may have the answer](https://www.youtube.com/watch?v=xhckSGPT9Rg&t=1s).
   
-- **2020.04.05** Missouri S&T News covered our exploration of household materials for DIY face coverings against COVID-19, emphasizing the support this research provides to the DIY mask community and medical professionals. Read More: [Environmental engineers study fabrics, materials for face covers](https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/).
+- **2020.04.05** Missouri S&T News covered our exploration of household materials for DIY face coverings against COVID-19, emphasizing the support this research provides to the DIY mask community and medical professionals. **Read More:** [Environmental engineers study fabrics, materials for face covers](https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/).
 
 - **2020.04.02** Following CDC guidelines, I experimented with a bandana enhanced by eight layers of furnace filters for improved filtration efficiency, achieving effective filtration without compromising breathability or comfort.
 <div style="text-align: center;">
@@ -123,11 +127,11 @@ author_profile: true
 - **2020.01.07** Successfully completed the Graduate Teaching Assistantship Workshop, delivering a lecture on "Air Pollution Control - Particulate Matter (PM)" and earning a full Graduate Teaching Assistantship Certificate.
 
 ## **2019 Highlights**
-- **2019.10.19** Delighted to have presented my poster titled “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter” at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) hosted by the University of Missouri. The event was an incredible opportunity to share my research findings and network with fellow scholars and professionals in the field.
+- **2019.10.19** Delighted to have presented my poster titled “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter” at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) hosted by the University of Missouri.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-maeec-2019.png" alt="Example Image" width="300" />
 </div>
 
-- **2019.09.01** Embarked on an exciting numerical simulation project focused on optimizing Condensation Particle Counters (CPCs), aimed at advancing our understanding and methodology in detecting ultrafine particles, crucial for environmental monitoring and aerosol research.
+- **2019.09.01** Embarked on an exciting numerical simulation project focused on optimizing Condensation Particle Counters (CPCs), aimed at detecting ultrafine particles, crucial for environmental monitoring and aerosol research.
   
-- **2019.08.19** Began my Ph.D. program in the realm of aerosol science and engineering at the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html), [Missouri University of Science and Technology](https://www.mst.edu/), USA.
+- **2019.08.19** Began my Ph.D. program in the field of aerosol science and engineering at the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html), [Missouri S&T](https://www.mst.edu/), USA.
