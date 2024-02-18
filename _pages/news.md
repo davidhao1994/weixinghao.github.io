@@ -52,6 +52,8 @@ author_profile: true
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2022.jpg" alt="Example Image" width="300" />
 </div>
 
+- **2022.08.07** Transitioned my Ph.D. program from Missouri University of Science and Technology to join the Department of Chemical, Environmental, and Materials Engineering at the University of Miami. 
+
 - **2022.05.10** My work, “A filter-based system mimicking the particle deposition and penetration in human respiratory system for secondhand smoke generation and characterization” has been published in *Inhalation Toxicology*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_5.pdf).
   
 ## **2021 Highlights**
@@ -103,17 +105,17 @@ author_profile: true
 
 - **2020.04.02** Following CDC guidelines, I experimented with a bandana enhanced by eight layers of furnace filters for improved filtration efficiency, achieving effective filtration without compromising breathability or comfort.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/DIY-facemask.jpg" alt="Example Image" width="300" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/DIY-facemask.jpg" alt="Example Image" width="350" />
 </div>
 
 - **2020.04.01** Our Twitter post on testing non-medical materials for aerosol filtration gained significant attention. Findings revealed scarves are ineffective against aerosols, potentially carrying viruses, sparking interest in alternative materials like furnace filters and pillowcases. 
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-twitter-1-2020.png" alt="Example Image" width="500" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-twitter-1-2020.png" alt="Example Image" width="600" />
 </div>
 
 - **2020.03.24** Collaborated with the Missouri S&T 3D-printed respirator team, assessing filtration efficiencies of various materials for potential use in respirators. 
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-3d-2020.jpg" alt="Example Image" width="300" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-3d-2020.jpg" alt="Example Image" width="350" />
 </div>
 
 - **2020.01.20** Began serving as a graduate teaching assistant for the Fundamentals of Environmental Engineering and Science (ENV ENG 2601), leading lab sessions and guiding undergraduate students.
