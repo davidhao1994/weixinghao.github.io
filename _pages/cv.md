@@ -49,8 +49,6 @@ Work experience
           
 Skills
 ======
- ## Skills Overview
-
 ### Experimental Proficiency
 
 #### Aerosol Research Techniques
