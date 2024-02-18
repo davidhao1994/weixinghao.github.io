@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-## **2024**
+## **2024 Highlights**
 - *2024.01.10* I attended the second Workshop hosted by Center for Aerosol Science and Technology (CAST)and gave a poster presentation titled "Machine Learning (ML) Aided Prediction of New Particle Formation (NPF) and Analyzing Environmental Variable Relationships"
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-cast-2024.jpg" alt="Example Image" width="300" />
 </div>
 
-## **2023**
+## **2023 Highlights**
 - *2023.10.13* I gave a seminar talk for our department with the title of xxxx.
 
 - *2023.10.09* I started a three-month research visit to the Pacific Northwest National Laboratory (PNNL) to work on analyzing atmospheric aerosol data and optimizing the working conditions of condensation particle counters.
@@ -42,7 +42,7 @@ author_profile: true
 
 - *2023.01.18* It was great interacting with everyone at our 1st Center for Aerosol Science and Technology (CAST) workshop at UM!
   
-## **2022**
+## **2022 Highlights**
 - *2022.10.07* I presented my work on size-dependent bioaerosol-UV interactions at the 40th Annual Conference of the American Association for Aerosol Research (AAAR) in Raleigh, NC.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2022.jpg" alt="Example Image" width="300" />
@@ -50,7 +50,7 @@ author_profile: true
 
 - *2022.05.10* My work, “A filter-based system mimicking the particle deposition and penetration in human respiratory system for secondhand smoke generation and characterization” has been published in Inhalation Toxicology.
   
-## **2021**
+## **2021 Highlights**
 - *2021.10.21* I gave two presentations at the 2021 AAAR conference. Links to their presentations can be found on our group’s YouTube channel.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2021.jpg" alt="Example Image" width="300" />
@@ -63,7 +63,7 @@ author_profile: true
 
 - *2021.7.8* My paper on simulating laminar flow CPC is published in the Journal of Aerosol Science!
 
-## **2020** 
+## **2020 Highlights** 
 - *2020.12.31* CIVIL, ARCHITECTURAL AND ENVIRONMENTAL ENGINEERING Missouri University of Science and Technology [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports)
 
 - *2020.12.24* My paper “Factors Influencing the Filtration Performance of Homemade Face Masks,” was published by  J. Occup. Environ. Health.!
@@ -93,33 +93,37 @@ author_profile: true
   
 - *2020.4.13* Given the COVID-19 situation and the urgent need for medical masks, we tested a wide range of household materials and common commercial fabrics that can be used to manufacture masks. The results were updated on [Google sheet](https://www.tinyurl.com/ve28f3l)
 
-- *2020.4.10* Our recent efforts on evaluating the filtration efficiencies of non-medical materials as candidates for homemade mask filters were reported by multiple news platforms such as [New York Times](https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html), [BBC News](https://www.bbc.com/future/article/20200504-coronavirus-what-is-the-best-kind-of-face-mask), [NPR News](https://www.npr.org/sections/goatsandsoda/2020/04/22/840146830/adding-a-nylon-stocking-layer-could-boost-protection-from-cloth-masks-study-find), [C&EN News](https://cen.acs.org/materials/Scientists-take-closer-look-materials/98/i25), [Daily Herald](https://www.dailyherald.com/news/20200407/what-makes-for-a-good-homemade-face-mask/), [Today](https://www.today.com/style/what-type-fabric-best-face-masks-t179615), [Newsy](https://scrippsnews.com/stories/which-diy-masks-actually-work/), etc.
+- *2020.4.11* Our research on the filtration efficiencies of non-medical materials for homemade mask filters gained widespread recognition, featuring in prominent outlets including the [New York Times](https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html), [BBC News](https://www.bbc.com/future/article/20200504-coronavirus-what-is-the-best-kind-of-face-mask), [NPR News](https://www.npr.org/sections/goatsandsoda/2020/04/22/840146830/adding-a-nylon-stocking-layer-could-boost-protection-from-cloth-masks-study-find), [C&EN News](https://cen.acs.org/materials/Scientists-take-closer-look-materials/98/i25), [Daily Herald](https://www.dailyherald.com/news/20200407/what-makes-for-a-good-homemade-face-mask/), [Today](https://www.today.com/style/what-type-fabric-best-face-masks-t179615), [Newsy](https://scrippsnews.com/stories/which-diy-masks-actually-work/), etc.
 
-- *2020.4.10* My work on evaluating the filtration efficiencies of non-medical materials as candidates for homemade mask filters was reported by Missouri S&T Youtube: [The ultimate coronavirus face mask? Missouri S&T professor may have the answer](https://www.youtube.com/watch?v=xhckSGPT9Rg&t=1s).
+- *2020.4.10* Missouri S&T highlighted our contributions in the official YouTube video, showcasing potential breakthroughs in face mask design and evaluations. Watch Here: [The ultimate coronavirus face mask? Missouri S&T professor may have the answer](https://www.youtube.com/watch?v=xhckSGPT9Rg&t=1s).
   
-- *2020.4.5* [Environmental engineers study fabrics, materials for face covers](https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/)
+- *2020.4.5* Missouri S&T News covered our exploration of household materials for DIY face coverings against COVID-19, emphasizing the support this research provides to the DIY mask community and medical professionals. Read More:[Environmental engineers study fabrics, materials for face covers](https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/)
+
+- *2020.4.2* Following CDC guidelines, I experimented with a bandana enhanced by eight layers of furnace filters for improved filtration efficiency, achieving effective filtration without compromising breathability or comfort.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/DIY-facemask.jpg" alt="Example Image" width="300" />
 </div>
 
-- *2020.04.01*  Our results was posted in twitter as "Out of curiosity, we tested non-medical materials for filtration. A scarf is NOT helpful for filtering aerosols, which may carry coronavirus. Instead, what about furnace filter/pillowcase?", draw much attention. We were using a face velocity of 23 cm/s because we need to insert this 75 mm diameter filter disc into our 3D printed respirator. We were assuming a inhale flow rate of 60 lpm. Error bars are on their way...
+- *2020.04.01* Our Twitter post on testing non-medical materials for aerosol filtration gained significant attention. Findings revealed scarves are ineffective against aerosols, potentially carrying viruses, sparking interest in alternative materials like furnace filters and pillowcases. 
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-twitter-1-2020.png" alt="Example Image" width="900" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-twitter-1-2020.png" alt="Example Image" width="700" />
 </div>
 
-- *2020.03.24* I worked with Missouri S&T 3D-printed respirator team to evaluate the filtration efficiencies of various materials as filters candidates. 
+- *2020.03.24* Collaborated with the Missouri S&T 3D-printed respirator team, assessing filtration efficiencies of various materials for potential use in respirators. 
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-3d-2020.jpg" alt="Example Image" width="300" />
 </div>
 
-- *2020.01.07* I attended the Graduate Teaching Assistantship Workshop and lectured on "Air Pollution Control - Particulate Matter (PM)", passed the assessment and received a full Graduate Teaching Assistantship Certificate.
+- *2020.01.20* Began serving as a graduate teaching assistant for the Fundamentals of Environmental Engineering and Science (ENV ENG 2601), leading lab sessions and guiding undergraduate students.
+  
+- *2020.01.07* Successfully completed the Graduate Teaching Assistantship Workshop, delivering a lecture on "Air Pollution Control - Particulate Matter (PM)" and earning a full Graduate Teaching Assistantship Certificate.
 
-## **2019**
-- *2019.10.19* I gave a poster presentation at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) at the University of Missouri titled “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter”.
+## **2019 Highlights**
+- *2019.10.19* Delighted to have presented my poster titled “Enhancing the detection efficiency of sub 3 nm aerosols with a modified condensation particle counter” at the 24th Annual Mid-American Environmental & Engineering Conference (MAEEC) hosted by the University of Missouri. The event was an incredible opportunity to share my research findings and network with fellow scholars and professionals in the field.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-maeec-2019.png" alt="Example Image" width="300" />
 </div>
 
-- *2019.09.01* I started working on a numerical simulation project for condensation particle counters (CPCs).
+- *2019.09.01* Embarked on an exciting numerical simulation project focused on optimizing Condensation Particle Counters (CPCs), aimed at advancing our understanding and methodology in detecting ultrafine particles, crucial for environmental monitoring and aerosol research.
   
-- *2019.08.19* I started my Ph.D. program at the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html) at the [Missouri University of Science and Technology](https://www.mst.edu/) in the United States.
+- *2019.08.19* Began my Ph.D. program in the realm of aerosol science and engineering at the [Particle Measurement & Technology Laboratory (PMTL)](https://pmtl.coe.miami.edu/index.html), [Missouri University of Science and Technology](https://www.mst.edu/), USA.
