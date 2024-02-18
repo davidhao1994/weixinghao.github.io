@@ -49,12 +49,22 @@ Work experience
           
 Skills
 ======
-  * Experimental Skills:
-      * Aerosol experiments: [Scanning Mobility Particle Sizer (SMPS)](https://www.kenelec.com.au/wp-content/uploads/2016/06/TSI_Electrostatic_classifier_model_3082_Scanning_Mobility_Particle_Sizer_Spectrometer_Model_3938.pdf); Aerodynamic Particle Sizer; Alcohol-based Condensation particle Counter; Water-based Condensation particle Counter; Constant Output Atomizer; Air Sampling Cassette; Scanning Electron Microscope; Manometer; Digital Microscope; Sioutas Cascade Impactor; Inductively Coupled Plasma Mass Spectrometry.
-      * Microbiology Experiments:Gelatin filter; SKC BioSampler; 6 Jet Refillable Collison Nebulizer; Bacterial culture methods; qPCR molecular science.
-  * Numerical Modeling Skills: COMSOL Multiphysics simulation coupled with MATLAB. CFD.
-  * Coding Skills: Matlab, Python, machine learning algorithm.
-    
+  **Experimental Proficiency**
+      * Aerosol Research Techniques
+          - Proficient in conducting aerosol experiments utilizing equipment such as Scanning Mobility Particle Sizer (SMPS) for detailed particle size analysis, Aerodynamic Particle Sizer for high-resolution aerosol measurements, and Condensation Particle Counters (both alcohol-based and water-based) for precise particle counting. 
+          - Experienced in generating standardized aerosols using Constant Output Atomizers and collecting air samples effectively with Air Sampling Filter Cassettes.
+          - Skilled in aerosol characterization through imaging and analysis techniques, including Scanning Electron Microscopy, Digital Microscopy.
+          - Proficient in elemental and chemical analysis of aerosols using Inductively Coupled Plasma Mass Spectrometry (ICP-MS).
+      * Microbiological Experimentation
+          - Demonstrated expertise in microbiological sampling using Gelatin filters, Sioutas Cascade Impactor, and SKC BioSamplers.
+          - Adept in cultivating bacteria and bacteriophages through established culture methods and employing 6 Jet Refillable Collison Nebulizers for bioaerosol generation.
+          - Experienced in molecular biology techniques including gel electrophoresis and quantitative Polymerase Chain Reaction (qPCR) for genetic analysis.
+   **Numerical Modeling and Simulation**
+      * Utilizing numerical simulations with COMSOL Multiphysics performs complex fluid flow and particle dynamics simulations to help understand aerosol behavior and transport phenomena, and the simulations are integrated with MATLAB to enhance data analysis and modeling capabilities.
+   **Programming and Data Analysis**
+      * Matlab: Proficient in MATLAB for numerical computing, data visualization, and algorithm development, with a strong emphasis on solving engineering and scientific problems.
+      * Python: Skilled in Python programming, particularly in data analysis and machine learning. Experienced in implementing machine learning algorithms for predictive modeling and data-driven insights.
+
 Journal Review Activities
 ======
 *PLOS One; Scientific Report; Aerosol Science & Technology; Atmospheric Measurement Techniques; Planetary and Space Science; ACS Omega; Journal of hazardous materials; Journal of Aerosol Science; ACS Environment & Health; Frontiers of Environmental Science & Engineering*
