@@ -10,20 +10,20 @@ author_profile: true
 ## **2024 Highlights**
 - **2024.01.17** My work, “Bioaerosol size as a potential determinant of airborne *E. coli* viability under ultraviolet germicidal irradiation and ozone disinfection” has been published in *Nanotechnology*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_10.pdf).
 
-- **2024.01.10** Participated in the second workshop hosted by the Center for Aerosol Science and Technology (CAST), where I presented a poster on "Machine Learning (ML) Aided Prediction of New Particle Formation (NPF) and Analyzing Environmental Variable Relationships". This presentation highlighted the innovative use of ML techniques in understanding complex environmental interactions and predicting atmospheric phenomena.
+- **2024.01.10** Participated in the second workshop hosted by the Center for Aerosol Science and Technology (CAST), where I presented a poster on "Machine Learning (ML) Aided Prediction of New Particle Formation (NPF) and Analyzing Environmental Variable Relationships".
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-cast-2024.jpg" alt="Example Image" width="300" />
 </div>
 
 ## **2023 Highlights**
-- **2023.10.13** Delivered a seminar for our department, sharing insights and the latest findings from my current research. The talk received engaging discussions and valuable feedback from peers.
+- **2023.10.13** Delivered a presentation titled "Toward Cleaner Breathing: Research in Particulate Filtration and Bioaerosol Mitigation" at the UM-CEME Fall 2023 Graduate Seminar, sharing insights and the latest findings from my current research. The talk received engaging discussions and valuable feedback from peers.
 
 - **2023.10.09** Embarked on a three-month research visit to the Pacific Northwest National Laboratory (PNNL), focusing on atmospheric aerosol data analysis and optimizing condensation particle counter operations.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-pnnl-2023.jpg" alt="Example Image" width="300" />
 </div>
 
-- **2022.10.04** Presented at the 41st Annual Conference of the American Association for Aerosol Research (AAAR) in Portland, OR, on the simulation of water-based Condensation Particle Counters (vWCPC), contributing to advancements in aerosol measurement technologies. he event was an incredible opportunity to share my research findings and network with fellow scholars and professionals in the field.
+- **2022.10.04** Presented at the 41st Annual Conference of the American Association for Aerosol Research (AAAR) in Portland, OR, on the simulation of water-based Condensation Particle Counters (vWCPC), contributing to advancements in aerosol measurement technologies. The event was an incredible opportunity to share my research findings and network with fellow scholars and professionals in the field.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
