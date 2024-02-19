@@ -64,7 +64,7 @@ author_profile: true
 - **2022.01.18** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
 -   
 ## **2021 Highlights**
-- **2021.10.21** Delivered two engaging presentations at the 2021 AAAR Conference, showcasing our latest research findings.
+- **2021.10.21** Delivered two engaging presentations at the 2021 AAAR Conference virtually, showcasing our latest research findings.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2021.jpg" alt="Example Image" width="300" />
 </div>
