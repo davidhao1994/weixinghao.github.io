@@ -52,7 +52,7 @@ author_profile: true
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2022.jpg" alt="Example Image" width="300" />
 </div>
 
-- **2022.08.07** Transitioned my Ph.D. program from Missouri University of Science and Technology to join the Department of Chemical, Environmental, and Materials Engineering at the University of Miami. 
+- **2022.08.07** Transitioned my Ph.D. program from Missouri University of Science and Technology to join the Department of Chemical, Environmental, and Materials Engineering at the [University of Miami](https://welcome.miami.edu/). 
 
 - **2022.05.10** My work, “A filter-based system mimicking the particle deposition and penetration in human respiratory system for secondhand smoke generation and characterization” has been published in *Inhalation Toxicology*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_5.pdf).
 
