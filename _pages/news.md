@@ -16,7 +16,7 @@ author_profile: true
 </div>
 
 ## **2023 Highlights**
-- **2023.10.13** Delivered a presentation titled "Toward Cleaner Breathing: Research in Particulate Filtration and Bioaerosol Mitigation" at the UM-CEME Fall 2023 Graduate Seminar, sharing insights and the latest findings from my current research. The talk received engaging discussions and valuable feedback from peers.
+- **2023.10.27** Delivered a presentation titled "Toward Cleaner Breathing: Research in Particulate Filtration and Bioaerosol Mitigation" at the UM-CEME Fall 2023 Graduate Seminar, sharing insights and the latest findings from my current research. The talk received engaging discussions and valuable feedback from peers.
 
 - **2023.10.09** Embarked on a three-month research visit to the Pacific Northwest National Laboratory (PNNL), focusing on atmospheric aerosol data analysis and optimizing condensation particle counter operations.
 <div style="text-align: center;">
