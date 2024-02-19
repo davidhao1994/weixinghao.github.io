@@ -81,7 +81,7 @@ author_profile: true
 - **2021.01.19** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
   
 ## **2020 Highlights** 
-- **2020.12.31** Our research achievements were highlighted in the 2020 Scholarly Productivity Report by the Department of Civil, Architectural, and Environmental Engineering, showcasing our contributions to the field over the past year. **Read More:** [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports)
+- **2020.12.31** Our research achievements were highlighted in the 2020 Scholarly Productivity Report by the Department of Civil, Architectural, and Environmental Engineering, showcasing our contributions to the field over the past year. **Read More:** [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports).
 
 - **2020.12.24** Celebrated the publication of my paper, "Factors Influencing the Filtration Performance of Homemade Face Masks," in *J. Occup. Environ. Health*. This milestone marks a significant contribution to public health knowledge during the pandemic. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_2.pdf)
   
