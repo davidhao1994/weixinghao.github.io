@@ -10,7 +10,7 @@ author_profile: true
 ## **2024 Highlights**
 - **2024.01.17** My work, “Bioaerosol size as a potential determinant of airborne *E. coli* viability under ultraviolet germicidal irradiation and ozone disinfection” has been published in *Nanotechnology*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_10.pdf).
 
-- **2024.01.10** Participated in the second workshop hosted by the Center for Aerosol Science and Technology (CAST), where I presented a poster on "Machine Learning (ML) Aided Prediction of New Particle Formation (NPF) and Analyzing Environmental Variable Relationships".
+- **2024.01.10** Kicked off the year with productive interactions at the 2nd Center for Aerosol Science and Technology (CAST) workshop at the University of Miami.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-cast-2024.jpg" alt="Example Image" width="300" />
 </div>
@@ -44,7 +44,7 @@ author_profile: true
 
 - **2023.03.02** Engaged in the research day at the College of Engineering, showcasing ongoing projects and exploring collaborative opportunities.
 
-- **2023.01.18** Kicked off the year with productive interactions at the 1st CAST workshop at the University of Miami.
+- **2023.01.18** Kicked off the year with productive interactions at the 1st Center for Aerosol Science and Technology (CAST) workshop at the University of Miami.
   
 ## **2022 Highlights**
 - **2022.10.07** Presented findings on size-dependent bioaerosol-UV interactions at the 40th AAAR Annual Conference in Raleigh, NC, contributing to the understanding of bioaerosol dynamics and mitigation strategies.
