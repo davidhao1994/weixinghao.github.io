@@ -81,7 +81,7 @@ author_profile: true
 - **2021.01.19** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
   
 ## **2020 Highlights** 
-- **2020.12.31** Our research achievements were highlighted in the 2020 Scholarly Productivity Report by the Department of Civil, Architectural, and Environmental Engineering at Missouri University of Science and Technology, showcasing our contributions to the field over the past year. This acknowledgment reflects the dedication to advancing environmental engineering research. **Read More:** [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports)
+- **2020.12.31** Our research achievements were highlighted in the 2020 Scholarly Productivity Report by the Department of Civil, Architectural, and Environmental Engineering, showcasing our contributions to the field over the past year. **Read More:** [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports)
 
 - **2020.12.24** Celebrated the publication of my paper, "Factors Influencing the Filtration Performance of Homemade Face Masks," in *J. Occup. Environ. Health*. This milestone marks a significant contribution to public health knowledge during the pandemic. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_2.pdf)
   
@@ -107,7 +107,7 @@ author_profile: true
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-magzine-2020.png" alt="Example Image" width="350" />
 </div>
   
-- **2020.05** The Shillelagh Newsletter and The Bridge Newsletter both showcased our work, highlighting its significance to alumni and the Civil, Architectural, and Environmental Engineering Department at Missouri S&T. This dual feature emphasizes the community and academic impact of our research. **Read More:** [Shillelagh Newletter](https://massemail.mst.edu/w/lJ3oD6pjEyXqU6Q16vSTzg); [The Bridge Spring 2020](https://care.mst.edu/media/academic/care/documents/bridge/The%20Bridge_Spring%202020.pdf).
+- **2020.05** The Shillelagh Newsletter and The Bridge Newsletter both showcased our work. This dual feature emphasizes the community and academic impact of our research. **Read More:** [Shillelagh Newletter](https://massemail.mst.edu/w/lJ3oD6pjEyXqU6Q16vSTzg); [The Bridge Spring 2020](https://care.mst.edu/media/academic/care/documents/bridge/The%20Bridge_Spring%202020.pdf).
 
 - **2020.04.13** In response to the critical demand for medical masks during the COVID-19 pandemic, we evaluated numerous household and commercial fabrics for mask manufacturing. Our comprehensive findings are continuously updated and accessible to the public. [View Results](http://tinyurl.com/59mpr2h9).
 
