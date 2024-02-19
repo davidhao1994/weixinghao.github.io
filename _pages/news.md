@@ -56,7 +56,7 @@ author_profile: true
 
 - **2022.05.10** My work, “A filter-based system mimicking the particle deposition and penetration in human respiratory system for secondhand smoke generation and characterization” has been published in *Inhalation Toxicology*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_5.pdf).
 
-- **2022.01.20** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
+- **2022.01.18** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
 -   
 ## **2021 Highlights**
 - **2021.10.21** Delivered two engaging presentations at the 2021 AAAR Conference, showcasing our latest research findings.
@@ -71,7 +71,7 @@ author_profile: true
 
 - **2021.07.08** My paper on simulating laminar flow in Condensation Particle Counters (CPCs) was published in the *Journal of Aerosol Science*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_3.pdf)
 
-- **2021.01.20** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
+- **2021.01.19** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
   
 ## **2020 Highlights** 
 - **2020.12.31** Our research achievements were highlighted in the 2020 Scholarly Productivity Report by the Department of Civil, Architectural, and Environmental Engineering at Missouri University of Science and Technology, showcasing our contributions to the field over the past year. This acknowledgment reflects the dedication to advancing environmental engineering research. **Read More:** [2020 Scholarly Productivity Report](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1008&context=care-scholarly_productivity_reports)
