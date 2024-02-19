@@ -71,7 +71,7 @@ author_profile: true
 
 - **2021.10.21** Delivered two engaging presentations at the 2021 AAAR Conference virtually, showcasing our latest research findings.
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2021.jpg" alt="Example Image" width="300" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2021.jpg" alt="Example Image" width="600" />
 </div>
 
 - **2021.07.08** My paper on simulating laminar flow in Condensation Particle Counters (CPCs) was published in the *Journal of Aerosol Science*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_3.pdf)
