@@ -23,13 +23,13 @@ author_profile: true
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-pnnl-2023.jpg" alt="Example Image" width="300" />
 </div>
 
-- **2022.10.04** Presented at the 41st Annual Conference of the American Association for Aerosol Research (AAAR) in Portland, OR, on the simulation of water-based Condensation Particle Counters (vWCPC), contributing to advancements in aerosol measurement technologies. The event was an incredible opportunity to share my research findings and network with fellow scholars and professionals in the field.
+- **2022.10.04** Presented at the 41st Annual Conference of the American Association for Aerosol Research (AAAR) in Portland, OR, on the simulation of water-based Condensation Particle Counters (vWCPC).
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
 </div>
 
-- **2023.09.15** Honored to receive a travel grant from AAAR for the 41st AAAR Annual Conference in Portland, where I not only presented but also served as a student volunteer and judge. This opportunity allowed for significant contributions and learning experiences within the aerosol research community.
+- **2023.09.15** Honored to receive a travel grant for the 41st AAAR Annual Conference in Portland, where I not only presented but also served as a student volunteer and judge. This opportunity allowed for significant contributions and learning experiences within the aerosol research community.
    
 - **2023.09.01** My work, “Mapping the performance of a versatile water-based condensation particle counter (vWCPC) with numerical simulation and experimental study” has been published in *Atmospheric Measurement Techniques*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_9.pdf)
 
