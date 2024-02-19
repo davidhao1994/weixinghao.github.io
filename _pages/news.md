@@ -64,14 +64,14 @@ author_profile: true
 - **2022.01.18** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
 -   
 ## **2021 Highlights**
-- **2021.10.21** Delivered two engaging presentations at the 2021 AAAR Conference virtually, showcasing our latest research findings.
-<div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2021.jpg" alt="Example Image" width="300" />
-</div>
-
 - **2021.10.29** Had the incredible opportunity to attend a TEDx event at Missouri S&T, leaving me inspired and energized by the innovative ideas and stories shared.
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-ted-2021.jpg" alt="Example Image" width="300" />
+</div>
+
+- **2021.10.21** Delivered two engaging presentations at the 2021 AAAR Conference virtually, showcasing our latest research findings.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2021.jpg" alt="Example Image" width="300" />
 </div>
 
 - **2021.07.08** My paper on simulating laminar flow in Condensation Particle Counters (CPCs) was published in the *Journal of Aerosol Science*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_3.pdf)
