@@ -42,9 +42,9 @@ author_profile: true
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-research-2023.jpg" alt="Example Image" width="300" />
 </div>
 
-- **2023.03.01** Engaged in the research day at the College of Engineering, showcasing ongoing projects and exploring collaborative opportunities.
+- **2023.03.02** Engaged in the research day at the College of Engineering, showcasing ongoing projects and exploring collaborative opportunities.
 
-- **2023.01.18** Kicked off the year with productive interactions at the 1st CAST workshop at UM.
+- **2023.01.18** Kicked off the year with productive interactions at the 1st CAST workshop at the University of Miami.
   
 ## **2022 Highlights**
 - **2022.10.07** Presented findings on size-dependent bioaerosol-UV interactions at the 40th AAAR Annual Conference in Raleigh, NC, contributing to the understanding of bioaerosol dynamics and mitigation strategies.
