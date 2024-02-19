@@ -96,6 +96,9 @@ author_profile: true
 - **2020.07.21** I'm proud to announce the publication of my paper on the filtration performance of common household materials in the *International Journal of Hygiene and Environmental Health*. This work contributes to the global effort in identifying effective materials for protective face coverings. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_1.pdf)
   
 - **2020.07** Our findings were featured in the Summer 2020 edition of the Missouri S&T Magazine, bringing our research to a broad audience of alumni and scholars. **Read More:** [Missouri S&T Magazine Summer 2020](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1063&context=alumni-magazine).
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-magzine-2020.jpg" alt="Example Image" width="350" />
+</div>
   
 - **2020.05** The Shillelagh Newsletter and The Bridge Newsletter both showcased our work, highlighting its significance to alumni and the Civil, Architectural, and Environmental Engineering Department at Missouri S&T. This dual feature emphasizes the community and academic impact of our research. **Read More:** [Shillelagh Newletter](https://massemail.mst.edu/w/lJ3oD6pjEyXqU6Q16vSTzg); [The Bridge Spring 2020](https://care.mst.edu/media/academic/care/documents/bridge/The%20Bridge_Spring%202020.pdf).
 
