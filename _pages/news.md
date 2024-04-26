@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## **2024 Highlights**
+- **2024.04.17** Nnominated for the [Graduate Student Research Award 2024](https://www.grad.miami.edu/about/grad-events-and-calendar/graduate-awards/index.html) at the University of Miami! 
+
+- **2024.03.02** Attended annual Frost Museum Science and Engineering Day! Presented the clouds in the bottle and laser-cloud interactions. 
+
 - **2024.01.17** My work, “Bioaerosol size as a potential determinant of airborne *E. coli* viability under ultraviolet germicidal irradiation and ozone disinfection” has been published in *Nanotechnology*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_10.pdf).
 
 - **2024.01.10** Kicked off the year with productive interactions at the 2nd Center for Aerosol Science and Technology (CAST) workshop at the University of Miami.
