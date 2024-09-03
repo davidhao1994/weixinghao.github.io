@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## **2024 Highlights**
-- **2024.04.17** Nnominated for the [Graduate Student Research Award 2024](https://www.grad.miami.edu/about/grad-events-and-calendar/graduate-awards/index.html) at the University of Miami! 
+- **2024.04.17** Nominated for the [Graduate Student Research Award 2024](https://www.grad.miami.edu/about/grad-events-and-calendar/graduate-awards/index.html) at the University of Miami! 
 
 - **2024.03.02** Attended annual Frost Museum Science and Engineering Day! Presented the clouds in the bottle and laser-cloud interactions. 
 
