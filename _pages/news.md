@@ -8,14 +8,13 @@ author_profile: true
 {% include base_path %}
 
 ## **2025 Highlights**
-- **2024.01.10** Kicked off the year with productive interactions at the 3nd Center for Aerosol Science and Technology (CAST) workshop at the University of Miami.
+- **2025.01.08** Kicked off the year with productive interactions at the 3nd Center for Aerosol Science and Technology (CAST) workshop at the University of Miami.
 
 ## **2024 Highlights**
 
 - **2024.10.04** Presented at the 42st Annual Conference of the American Association for Aerosol Research (AAAR) in Albuquerque, NM, with title "Employing Machine Learning for New Particle Formation Identification and Mechanistic Analysis: Insights from a Six-Year Observational Study in the Southern Great Plains."
 <div style="text-align: center;">
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
-    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2024.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
 </div>
 
 - **2024.04.17** Nominated for the [Graduate Student Research Award 2024](https://www.grad.miami.edu/about/grad-events-and-calendar/graduate-awards/index.html) at the University of Miami!
