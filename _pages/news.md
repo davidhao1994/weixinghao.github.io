@@ -12,7 +12,7 @@ author_profile: true
 
 ## **2024 Highlights**
 
-- **2024.10.04** Presented at the 42st Annual Conference of the American Association for Aerosol Research (AAAR) in Albuquerque, NM, with title "Employing Machine Learning for New Particle Formation Identification and Mechanistic Analysis: Insights from a Six-Year Observational Study in the Southern Great Plains."
+- **2024.10.25** Presented at the 42st Annual Conference of the American Association for Aerosol Research (AAAR) in Albuquerque, NM, with title "Employing Machine Learning for New Particle Formation Identification and Mechanistic Analysis: Insights from a Six-Year Observational Study in the Southern Great Plains."
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2024.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
 </div>
