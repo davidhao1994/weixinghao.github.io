@@ -7,9 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-## **2024 Highlights**
-- **2024.04.17** Nominated for the [Graduate Student Research Award 2024](https://www.grad.miami.edu/about/grad-events-and-calendar/graduate-awards/index.html) at the University of Miami! 
+## **2025 Highlights**
+- **2024.01.10** Kicked off the year with productive interactions at the 3nd Center for Aerosol Science and Technology (CAST) workshop at the University of Miami.
 
+## **2024 Highlights**
+
+- **2024.10.04** Presented at the 42st Annual Conference of the American Association for Aerosol Research (AAAR) in Albuquerque, NM, with title "Employing Machine Learning for New Particle Formation Identification and Mechanistic Analysis: Insights from a Six-Year Observational Study in the Southern Great Plains."
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
+</div>
+
+- **2024.04.17** Nominated for the [Graduate Student Research Award 2024](https://www.grad.miami.edu/about/grad-events-and-calendar/graduate-awards/index.html) at the University of Miami!
+  
+- **2024.04.15** Successfully defended my PhD program proposal, marking a pivotal milestone in my doctoral journey in aerosol science and engineering.
+  
 - **2024.03.02** Attended annual Frost Museum Science and Engineering Day! Presented the clouds in the bottle and laser-cloud interactions. 
 
 - **2024.01.17** My work, “Bioaerosol size as a potential determinant of airborne *E. coli* viability under ultraviolet germicidal irradiation and ozone disinfection” has been published in *Nanotechnology*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_10.pdf).
@@ -27,7 +39,7 @@ author_profile: true
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-pnnl-2023.jpg" alt="Example Image" width="300" />
 </div>
 
-- **2022.10.04** Presented at the 41st Annual Conference of the American Association for Aerosol Research (AAAR) in Portland, OR, on the simulation of water-based Condensation Particle Counters (vWCPC).
+- **2023.10.04** Presented at the 41st Annual Conference of the American Association for Aerosol Research (AAAR) in Portland, OR, on the simulation of water-based Condensation Particle Counters (vWCPC).
 <div style="text-align: center;">
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
     <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-aaar-2-2023.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
