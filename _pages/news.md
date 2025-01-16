@@ -91,7 +91,7 @@ author_profile: true
 
 - **2021.07.08** My paper on simulating laminar flow in Condensation Particle Counters (CPCs) was published in the *Journal of Aerosol Science*. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_3.pdf)
 
-- **2021.01.19** Successfully passed my qualifying exam. Excited for what's next!
+- **2021.06.17** Successfully passed my qualifying exam. Excited for what's next!
   
 - **2021.01.19** Began serving as a graduate teaching assistant for the Chemical Fundamentals of Environmental Engineering (ENV ENG 3603), leading lab sessions and guiding undergraduate students.
   
