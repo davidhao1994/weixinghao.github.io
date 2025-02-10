@@ -27,7 +27,7 @@ Education
 
 Work experience
 ======
-* 10/2023 - 1/2024: **Visiting Researcher**
+* 10/2023 - 3/2024: **Visiting Researcher**
   * Pacific Northwest National Laboratory
   * Supervisor: [Dr. Fan Mei](https://www.pnnl.gov/people/fan-mei)
 
