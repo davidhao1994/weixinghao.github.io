@@ -25,4 +25,7 @@ My personal life
 * Passionate about traveling, exploring maps, and road trips.
 * Enjoy reading, swimming, and fitness activities.
 
-///<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2jqvHdbVNExgJx5qEGnb1EavI-ogcqO5Jzn9k1dh2eg&cl=ffffff&w=a"></script>
+<!--
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2jqvHdbVNExgJx5qEGnb1EavI-ogcqO5Jzn9k1dh2eg&cl=ffffff&w=a"></script>
+-->
+
