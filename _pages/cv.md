@@ -37,7 +37,8 @@ Work experience
 
  * 8/2019 - present: **Graduate Teaching Assistant**
    * University of Miami
-       * Introduction to Environmental Engineering (CET 340, Spring 2024)
+       * Introduction to Environmental Engineering (CET 340, Spring 2024, Spring 2025)
+       * Environmental Engineering Microbiology (CET 541/641, Fall 2024)
    * Missouri University of Science and Technology
        * Chemical Fundamentals of Environmental Engineering (ENV ENG 3603, Spring 2021, Spring 2022)
        * Air Pollution Control (ENV ENG 5662, Fall 2021)
@@ -75,7 +76,7 @@ Skills
 
 Journal Review Activities
 ======
-> *PLOS One; Scientific Report; Aerosol Science & Technology; Atmospheric Measurement Techniques; Planetary and Space Science; ACS Omega; Journal of hazardous materials; Journal of Aerosol Science; ACS Environment & Health; Frontiers of Environmental Science & Engineering*
+> *PLOS One; Scientific Reports; Aerosol Science & Technology; Atmospheric Measurement Techniques; Planetary and Space Science; ACS Omega; Journal of hazardous materials; Journal of Aerosol Science; ACS Environment & Health; Frontiers of Environmental Science & Engineering*
 
 Teaching
 ======
