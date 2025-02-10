@@ -85,7 +85,7 @@ Teaching
    
 Academic Activities
 ======
-- 10/2024	Oral presentation, 2024, [42st Annual American Association for Aerosol Research (AAAR)]([https://www.aaar.org/2024/](https://web.cvent.com/event/a3a3aa41-527e-4e88-814a-45b56c7cdbde/summary?locale=en-US)), titled “Employing Machine Learning for New Particle Formation Identification and Mechanistic Analysis: Insights from a Six-Year Observational Study in the Southern Great Plains.”
+- 10/2024	Oral presentation, 2024, [42nd Annual American Association for Aerosol Research (AAAR)]([https://www.aaar.org/2024/](https://web.cvent.com/event/a3a3aa41-527e-4e88-814a-45b56c7cdbde/summary?locale=en-US)), titled “Employing Machine Learning for New Particle Formation Identification and Mechanistic Analysis: Insights from a Six-Year Observational Study in the Southern Great Plains.”
 - 10/2023	Oral presentation, 2023, [41st Annual American Association for Aerosol Research (AAAR)](https://www.aaar.org/2023/), titled “Mapping the Performance of a Versatile Water-based Condensation Particle Counter (vWCPC) with Numerical Simulation and Experimental Study.”
 - 10/2022	Poster presentation, 2022, [40th Annual American Association for Aerosol Research (AAAR)](https://www.aaar.org/2022/), titled “Influence of UV Irradiation on the Size-dependent Survivability of *E. Coli*-containing Bioaerosols.”
 - 03/2022	Poster presentation, 2022, [Center for Biomedical Research (CBR) Symposium](https://cbr.mst.edu/media/research/cbr/documents/Symposium%20Pgm.pdf#220801013629), Missouri S&T, titled “Measuring the load and viability of biological aerosols.”
