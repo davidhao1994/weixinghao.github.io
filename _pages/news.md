@@ -9,7 +9,10 @@ author_profile: true
 
 ## **2025 Highlights**
 
-- **2025.03.19**Successfully defended my Ph.D. dissertation defense, dissertation is titled "The Role of Aerosol Particle Size in the Dynamics and Control of Indoor Bioaerosols", marking a pivotal milestone in my doctoral journey in aerosol science and engineering.
+- **2025.03.19** Successfully defended my Ph.D. dissertation defense, with title "The Role of Aerosol Particle Size in the Dynamics and Control of Indoor Bioaerosols", marking a pivotal milestone in my doctoral journey in aerosol science and engineering.
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-defense.jpg" alt="Example Image" style="height: 300px; width: auto; display: inline-block;" />
+</div>
 
 - **2025.01.08** Kicked off the year with productive interactions at the 3nd Center for Aerosol Science and Technology (CAST) workshop at the University of Miami.
 
