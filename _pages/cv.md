@@ -9,17 +9,17 @@ author_profile: true
 
 CV
 ======
-<iframe src="https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_02132024.pdf" width="90%" height="600px">
+<iframe src="https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_04112025_academia.pdf" width="90%" height="600px">
     <p>Your browser does not support iframes.</p>
 </iframe>
 
-You can also download a PDF copy of my CV [here](https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_02132024.pdf).
+You can also download a PDF copy of my CV [here](https://davidhao1994.github.io/weixinghao.github.io/files/Weixing_CV_04112025_academia.pdf).
 
 Education
 ======
 <div style="margin-left: 18px;">
     🎓 Ph.D. in Chemical, Environmental and Materials Engineering, University of Miami <br>
-    🎓 Ph.D. in Civil and Environmental Engineering, Missouri University of Science and Technology (transferred to the University of Miami), 2022<br>
+    🎓 Ph.D. candidate in Civil and Environmental Engineering, Missouri University of Science and Technology (transferred to the University of Miami), 2022<br>
     🎓 M.S. in Metallurgical Engineering, University of Science and Technology Beijing, 2019<br>
     🎓 B.S. in Metallurgical Engineering, North China University of Science and Technology, 2016
 </div>
