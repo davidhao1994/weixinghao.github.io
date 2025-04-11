@@ -9,7 +9,12 @@ author_profile: true
 
 ## **2025 Highlights**
 
+- **2025.04.08** Joined the centennial celebration as the University of Miami marks 100 years of excellence!
 
+<div style="text-align: center;">
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-100years-1.jpg" alt="Example Image" style="height: 200px; width: auto; display: inline-block;" />
+    <img src="https://davidhao1994.github.io/weixinghao.github.io/images/news-100years-2.jpg" alt="Example Image" style="height: 200px; width: auto; display: inline-block;" />
+</div>
 
 - **2025.03.19** Successfully defended my Ph.D. dissertation defense, with title "The Role of Aerosol Particle Size in the Dynamics and Control of Indoor Bioaerosols", marking a pivotal milestone in my doctoral journey in aerosol science and engineering.
 <div style="text-align: center;">
