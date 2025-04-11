@@ -19,7 +19,7 @@ Education
 ======
 <div style="margin-left: 18px;">
     🎓 Ph.D. in Chemical, Environmental and Materials Engineering, University of Miami <br>
-    🎓 Ph.D. candidate in Civil and Environmental Engineering, Missouri University of Science and Technology (transferred to the University of Miami), 2022<br>
+    🎓 Ph.D. Candidate in Civil and Environmental Engineering, Missouri University of Science and Technology (transferred to the University of Miami), 2022<br>
     🎓 M.S. in Metallurgical Engineering, University of Science and Technology Beijing, 2019<br>
     🎓 B.S. in Metallurgical Engineering, North China University of Science and Technology, 2016
 </div>
