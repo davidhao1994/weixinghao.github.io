@@ -10,7 +10,7 @@ author_profile: true
 ## **2025 Highlights**
 
 - **2025.10.14** Presented at the 43st Annual Conference of the American Association for Aerosol Research (AAAR) in Buffalo, NY, with title "Evaluating Fine-Scale Air Quality Heterogeneity Using a Low-Cost Multi-pollutant Sensor (LCS) Network in Twin Cities, Minnesota"
-- 
+
 - **2025.05.08** Successfully participated in my Ph.D. commencement ceremony, marking a pivotal milestone in my academic and personal journey.
 
 - **2025.04.08** Joined the centennial celebration as the University of Miami marks 100 years of excellence!
