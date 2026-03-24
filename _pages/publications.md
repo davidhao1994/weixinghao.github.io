@@ -11,7 +11,7 @@ author_profile: true
   {{ publication.reference }}
 {% endfor %}
 
-14\. Abhayaratne, V., **Hao, W.**, Ye, C., Yatawara, A., Hopke, P. K., Li, J., & Wang, Y. 2026. Evaluating Fine-Scale Air-Quality Heterogeneity Using a Low-Cost Multipollutant Sensor Network in Twin Cities, Minnesota.[*ACS ES&T Air*](https://pubs.acs.org/doi/abs/10.1021/acsestair.5c00439) ,  [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_14.pdf)
+14\. Abhayaratne, V., **Hao, W.**, Ye, C., Yatawara, A., Hopke, P. K., Li, J., & Wang, Y. 2026. Evaluating Fine-Scale Air-Quality Heterogeneity Using a Low-Cost Multipollutant Sensor Network in Twin Cities, Minnesota. [*ACS ES&T Air*](https://pubs.acs.org/doi/abs/10.1021/acsestair.5c00439) ,  [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_14.pdf)
 
 13\. **Hao, W.**, Mehra, M., Budhwani, G., Chakraborty, T. C., Mei, F., & Wang, Y. (2026). Employing machine learning for new particle formation identification and mechanistic analysis: Insights from a six‐year observational study in the Southern Great Plains. [*Journal of Geophysical Research: Atmospheres*](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD043116) , 131(1), e2024JD043116. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_13.pdf)
 
