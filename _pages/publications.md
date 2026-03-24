@@ -15,7 +15,7 @@ author_profile: true
 
 13\. **Hao, W.**, Mehra, M., Budhwani, G., Chakraborty, T. C., Mei, F., & Wang, Y. (2026). Employing machine learning for new particle formation identification and mechanistic analysis: Insights from a six‐year observational study in the Southern Great Plains. [*Journal of Geophysical Research: Atmospheres*](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD043116) , 131(1), e2024JD043116. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_13.pdf)
 
-12\. Kapiamba, K. F., Chuang, H. Y., **Hao, W.**, Lin, T. C., Chen, L. C., Huang, Y. W., & Wang, Y. 2025. Wearable MXene‐Graphene Sensing of Influenza and SARS‐CoV‐2 Virus in Air and Breath: From Lab to Clinic. [*Chemical research in toxicology*](https://pubs.acs.org/doi/abs/10.1021/acs.chemrestox.5c00064) , 38(8), 1344-1356.. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_12.pdf)
+12\. Kapiamba, K. F., Chuang, H. Y., **Hao, W.**, Lin, T. C., Chen, L. C., Huang, Y. W., & Wang, Y. 2025. Wearable MXene‐Graphene Sensing of Influenza and SARS‐CoV‐2 Virus in Air and Breath: From Lab to Clinic. [*Chemical research in toxicology*](https://pubs.acs.org/doi/abs/10.1021/acs.chemrestox.5c00064) , 38(8), 1344-1356. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_12.pdf)
 
 11\. Li, Y., Peng, Z., Li, J., Wei, C., Liu, S., **Hao, W.**, ... & Wu, C. 2024. Wearable MXene‐Graphene Sensing of Influenza and SARS‐CoV‐2 Virus in Air and Breath: From Lab to Clinic. [*Advanced Materials Technologies*](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202201787) , 2201787. [PDF](https://davidhao1994.github.io/weixinghao.github.io/files/Publication_11.pdf)
     
